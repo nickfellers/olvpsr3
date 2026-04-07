@@ -1,0 +1,260 @@
+session: 20
+title: "Celebrating Lent and Holy Week"
+unit: 4
+unit_title: "Sacraments, Our Way of Life"
+book_pages: "163–168"
+theme: "Lent and Holy Week are times to think of how we treat others."
+duration: "1 hour"
+
+sources:
+  book_scan: "rawdata/lesson20bookscan.pdf"
+  lesson_planner: "rawdata/Unit 4 (Sessions 16-20)/Finding_God_2021_G3_PARISH_Interactive_Lesson_Planner_Unit_4/Finding_God_2021_G3_PARISH_Interactive_Lesson_Planner_Session_20.docx"
+  jeopardy: "https://jeopardylabs.com/play/lent-1037"
+
+outcomes:
+  - "Retell the story of Jesus and the Samaritan woman at the well."
+  - "Explain that Lent is a time to think about how we treat others."
+  - "Describe practices and experiences of Lent and Holy Week."
+  - "Define almsgiving, intercessions, and Prayer of the Faithful."
+
+vocabulary:
+  almsgiving: "Sharing money, time, and resources to help others; a Lenten practice."
+  intercessions: "Prayers asking God for help on behalf of another person."
+  prayer_of_the_faithful: "General intercessions prayed during Mass for the Church, the world, and the local community."
+  fasting: "Giving something up (literally, to not eat); helps us understand those who do not have it at all."
+
+scripture:
+  - reference: "John 4:5–15"
+    context: "Jesus and the Samaritan woman at the well. Jesus breaks cultural barriers by making a request of a woman from another culture."
+    use: "Engage — Proclaim God's Word"
+  - reference: "Matthew 25:40"
+    context: "'Whatever you did for one of these least brothers of mine, you did for me.' When you help others, you show you care for Jesus too."
+    use: "Reflect — Jesus in the Desert (student page 166)"
+  - reference: "Luke 21:1–4"
+    context: "The poor widow who gave all she had. Jesus said she put in more than all the rest."
+    use: "Explore — Almsgiving section (student page 164)"
+  - reference: "Tobit 4:7"
+    context: "Give alms from your possessions. Do not turn your face away from any of the poor, so that God's face will not be turned away from you."
+    use: "Reading God's Word sidebar (student page 164)"
+  - reference: "Matthew 6:1–4"
+    context: "Jesus teaches about giving — at home family Scripture reading."
+    use: "At Home — Scripture Together (page 168)"
+
+catechist_preparation:
+  three_minute_retreat:
+    scripture: "Tobit 4:7"
+    text: "Give alms from your possessions. Do not turn your face away from any of the poor, so that God's face will not be turned away from you."
+    reflection: "In this Scripture passage, Tobit, who knows he will die soon, turns over to his son Tobias some money he has kept aside. He instructs Tobias as to his use of this money, including to give alms to the poor. He tells Tobias that giving alms frees the giver from death and darkness [Tobit 4:10]. The giving of alms is a spiritual discipline Jesus knew was taught in the Old Testament, which he then emphasized in his own teachings. People who have little are precious in God's sight; in helping with their difficulties, we walk in companionship with Jesus."
+    question: "How can I guide the children I catechize to find the ways they can give alms from their hearts?"
+    prayer: "Jesus, help me see those who have little as precious in your sight so that I may share with an open heart."
+  tradition:
+    text: "Lent is the period of fasting preceding the celebration of Easter. It recalls Jesus' 40-day fast in the wilderness [Matthew 4:1–11]. Lent begins on Ash Wednesday and ends at the evening Mass of Holy Thursday. During Lent, the Church focuses on our need for God's forgiveness as individuals and as a community. We do so through the Lenten practices of fasting, almsgiving, and prayer."
+  catholic_social_teaching:
+    themes:
+      - "Call to Family, Community, and Participation"
+      - "Option for the Poor and Vulnerable"
+    reference: "See page 127b for explanations."
+  catechism_reference: "CCC 1438 — seasons and days of penance"
+  general_directory: "GDC 129 — organization of catechesis around the season of Lent"
+
+prayer_in_session:
+  description: "Children ask Jesus for help in thinking of others' needs along with his guidance in providing assistance to meet those needs. Prayer includes time for children to talk with God in the silence of their hearts and share with him their thoughts and concerns."
+
+before_this_session:
+  - "Determine whether you will use the Unit Assessment option listed on page 168."
+  - "Determine whether you will also discuss the Lent and Holy Week seasonal pages in the back of the Children's Book."
+  - "Bookmark your Bible to Matthew 25:40, Luke 21:1–4, and John 4:5–15. Place the Bible open to one of these passages in your Prayer Center."
+  - "Read the Guide for this session, choose any additional multimedia content or If Time Allows activities, and gather listed materials."
+
+materials:
+  required:
+    - "Bible"
+    - "Device with internet access and QR code reader"
+    - "Art Print 20: Christ on the Cross (easel)"
+    - "Music: 'Song of Love'"
+    - "Art supplies"
+  optional:
+    - "Scripture BLM 20"
+    - "Activity BLM 20"
+    - "Scripture Prayer Service BLM 20"
+    - "Construction paper, yarn"
+    - "Assessment: Session 20 (www.findinggod.com)"
+    - "Assessment: Unit Assessment BLM 4"
+
+steps:
+  engage:
+    page: 163
+    duration: "15 minutes"
+    title: "Celebrating Lent and Holy Week"
+    student_page_content:
+      gods_word: "Read and listen to John 4:5–15."
+      summary: "The story of Jesus asking the Samaritan woman for a drink is a story of how we treat one another. In the story, Jesus breaks a barrier by making a request of a woman from another culture. During Lent, we think about how we treat each other and open ourselves to a new friendship with Jesus and with God his Father. As Jesus promises the woman something in return, we are promised something for our efforts during Lent."
+      lent_basics: "Lent begins on Ash Wednesday. It is a time of 40 days of fasting, almsgiving, and prayer to prepare for Jesus' Resurrection on Easter. We remember that in Jesus there are no strangers or foreigners."
+      prayer: "Jesus, help me know you better and share what I learn with others. Help us all learn about people from different places and different backgrounds and know that we all live in your love."
+    understanding_scripture: "The story of Jesus and the Samaritan woman is one of the most moving in the Gospels. Their encounter is forbidden on many levels: a Jew should not interact with a Samaritan, the woman should not talk with a man, and Jesus, a Jew, may not drink from a container belonging to a non-Jew. Jesus throws all those taboos aside. The woman tells the people in her village about Jesus, the Messiah, and word of him begins to spread outside the Jewish community. The story is told during Lent because Lent is a time of examining things that keep us from God and breaking through those barriers."
+    catechist_instructions:
+      open_your_heart: "Invite children to quiet themselves and prepare to hear sacred Scripture."
+      proclaim_gods_word: "Take the Bible from the Prayer Center. Read John 4:5–15. Then say: The Gospel of the Lord. Invite children to respond Praise to you, Lord Jesus Christ."
+      the_word_alive:
+        - "Ask: How do we treat new classmates who move here from another town or state? (We welcome them.)"
+        - "Say: During Lent, we are called to think of people from other places as members of our family."
+        - "Read the paragraphs aloud."
+        - "Ask: How are our lives different when we don't focus on differences? (We make more friends. The good we do extends farther.)"
+      prayer: "Ask a volunteer to pray the prayer aloud. Pray together the Sign of the Cross. End by praying Amen."
+    if_time_allows:
+      - activity: "Scripture BLM: John 4:5–15"
+        description: "Have children complete Scripture BLM 20 to gain a better understanding of the passage."
+
+  explore:
+    page: 164
+    duration: "20 minutes"
+    title: "We Grow in Virtue During Lent and Holy Week"
+    student_page_content:
+      intro: "Lent is a time to think about how we treat others. We look beyond our own wants and desires. During Lent, we pay attention to the needs of others and respond by helping. We think about the way Jesus helped others."
+      reflection_question: "What are some changes I can make during Lent to grow in how I serve God?"
+      almsgiving:
+        text: "People who were poor were looked down upon, but Jesus loved them."
+        scripture_passage: "When he looked up he saw some wealthy people putting their offerings into the treasury and he noticed a poor widow putting in two small coins. He said, 'I tell you truly, this poor widow put in more than all the rest, for those others have all made offerings from their surplus wealth, but she, from her poverty, has offered her whole livelihood.' — Luke 21:1–4"
+        summary: "During Lent we practice almsgiving by sharing money, time, and resources to help others."
+      reading_gods_word:
+        text: "Give alms from your possessions. Do not turn your face away from any of the poor, so that God's face will not be turned away from you."
+        reference: "Tobit 4:7"
+      activity_earn_money_for_almsgiving: "What are three ways you could earn money to help others?"
+    catechist_instructions:
+      begin:
+        - "Ask: What does the expression 'put yourself in someone else's shoes' mean? (try to understand what that person is experiencing)"
+        - "Say: Lent is a time to be aware of other people's situations and to offer support."
+      connect:
+        - "Have a volunteer read aloud the heading and the paragraphs under it."
+        - "Invite volunteers to share their answers to the question."
+        - "Have volunteers read aloud Almsgiving, including the Scripture."
+        - "Have children find the word almsgiving in the Glossary. Discuss its meaning."
+        - "Ask: What did Jesus mean when he said the widow put in more than the rich people? (The widow gave all she had. The rich people still had more than enough.)"
+        - "Play for children 'Song of Love.' Say: This is a song that tells us how we can reach out to others during Lent."
+      activity: "Read aloud Earn Money for Almsgiving and invite children to complete the activity with partners."
+      catholic_social_teaching_link: "The Poor and Vulnerable"
+      close:
+        - "Direct children's attention to the feature on page 164."
+        - "Have children read aloud the verse together."
+        - "Discuss additional efforts we make during Lent to help others."
+    if_time_allows:
+      - activity: "Activity BLM: Helping Others"
+        description: "Have children complete Activity BLM 20 to write a prayer for a friend in need."
+      - activity: "Seasonal Sessions: Lent and Holy Week"
+        description: "Work with children through pages 221–228 of the Children's Book and this guide. These special sessions can each take up to one hour to complete."
+    ideas_to_share:
+      topic: "Almsgiving"
+      quote: "Pope Francis says of giving: 'The gesture is important, helping those who ask, looking them in the eyes and touching their hands.' Read this quote to children and ask how it is similar to the verse from Tobit on the page."
+
+  reflect:
+    pages: "165–166"
+    duration: "15 minutes"
+    title: "Mass During Lent and Holy Week"
+    student_page_content:
+      mass_during_lent:
+        text: "When we go to Mass throughout the year, we pray the Prayer of the Faithful, or general intercessions. This is a prayer for the needs of the Church, the world, and the local community. On Good Friday, we pray traditional ancient intercessions. We stand for each prayer and then kneel to pray silently. We pray for those preparing to celebrate Baptism and for people who do not believe in God."
+        did_you_know: "Lent is a time of almsgiving, prayer, and fasting. Jesus teaches about these practices in the Sermon on the Mount. The Sermon on the Mount appears in the Gospel of Matthew."
+      what_we_experience: "During Lent, you can see that the church looks simple and plain. This is a season of penance, so there are no flowers or decorations in the sanctuary. The priest wears purple vestments."
+      activity_lord_hear_our_prayer: "Complete two prayers of intercession. In the first, pray for a need of your community. In the second, pray for a need of the world."
+      jesus_in_the_desert:
+        art_print_prompt: "Art Print 20 shows how Jesus sacrificed his life for us. How do you make your heart ready during Lent in remembrance of his sacrifice?"
+        text: "During Lent we remember how Jesus suffered and died before his Resurrection. To prepare for his sacrifice, he spent 40 days in the desert. During those 40 days, Jesus fasted and resisted temptation by the Devil. By caring for those in need and resisting temptation, we can make our hearts ready for Easter. Catholics abstain from meat on Fridays. Some Christians fast during Lent by choosing a food or an activity to give up. Others choose to do something to remind them of Jesus, such as pray every morning before school."
+        scripture: "'And the king will say to them in reply, Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.' — Matthew 25:40"
+        summary: "When you help others, you show you care for Jesus too."
+      activity_lenten_promise: "Write an idea for a Lenten promise. Choose something that would remind you daily of Christ's strength to resist temptation and his ultimate sacrifice — his Crucifixion."
+    catechist_instructions:
+      begin:
+        - "Ask: What is a prayer of intercession? (a prayer that asks God for help on behalf of another)"
+        - "Say: Think of people who have been on your mind lately or of people who are suffering from an event such as an earthquake. Pray an intercession for them."
+      connect:
+        - "Read aloud the heading and the first paragraph."
+        - "Say: During Lent, we think of others. One way we do so is by praying for them."
+        - "Have children find Prayer of the Faithful and intercession in the Glossary and read aloud their definitions."
+        - "Ask a volunteer to read aloud What We Experience."
+      activity: "Read aloud the directions and ask children to complete the sentences independently. When all children have finished, go around the room as each child reads his or her intercessions. After each one, have the class as a whole say together, 'Lord, hear our prayer.'"
+      catholic_social_teaching_link: "Family and Community"
+      did_you_know_instruction: "Read aloud the feature. Tell children that almsgiving, prayer, and fasting were familiar to the Jewish people to whom Jesus' family belonged. Jesus gave the practices new meaning."
+      close:
+        - "Use the following page and the Art Print easel to teach Art Print 20: Christ on the Cross."
+      art_print:
+        begin:
+          - "Display the Art Print easel open to Art Print 20. Briefly introduce and discuss the artwork."
+          - "Ask: What does the painting show? (Jesus dying on the Cross)"
+          - "What details do you notice in the painting, and what do you think they mean? (Answers will vary.)"
+          - "Why was Jesus there? (to fulfill the promise of his Death and Resurrection)"
+        connect:
+          - "Read aloud the introduction and discuss the question."
+          - "Tell children that almsgiving, prayer, and fasting help us prepare our hearts during Lent."
+          - "Read aloud the first paragraph of Jesus in the Desert."
+          - "Ask: Why was Jesus in the desert? (to prepare for the sacrifice he was going to make of himself for us)"
+          - "What does it mean to fast? (literally, to not eat)"
+          - "Say: Giving something up can help us understand those who do not have it at all."
+          - "Read aloud the Scripture passage."
+          - "Ask: What do you think Jesus is saying? (What we do for others, we do for Jesus.)"
+        activity: "Read aloud the directions. Ask children to think of a meaningful Lenten promise and write about it. Invite them to share their ideas."
+        close: "Invite children to reflect on the artwork and to pray a silent prayer to grow closer to God during Lent."
+    if_time_allows:
+      - activity: "Scripture Prayer Service BLM: John 4:5–15"
+        description: "For an optional prayer service focused on this session's opening Scripture passage, refer to Scripture Prayer Service BLM 20."
+      - activity: "Art Studio: In the Desert"
+        description: "Have children look at the illustration of Jesus in the desert. Distribute paper and watercolor paint. Ask children to paint their own pictures showing Jesus in the desert."
+    inclusion:
+      hearing: "As children read aloud the intercessions they wrote for the activity on page 165, invite them to include gestures and body language to support their prayers."
+
+  respond:
+    page: 167
+    duration: "10 minutes"
+    title: "Living My Faith"
+    student_page_content:
+      faith_summary: "During Lent, we prepare for the celebration of Jesus' Resurrection. It is a time to think about how we can joyfully love others as Jesus did. We are encouraged to look beyond our own wants and desires. We become aware of others' needs and lovingly respond with help."
+      words_i_learned:
+        - "almsgiving"
+        - "intercession"
+        - "Prayer of the Faithful"
+      ways_of_being_like_jesus: "Jesus treated others with kindness. Reach out to others by being a good listener."
+      activity_what_we_do_during_lent:
+        description: "Write the words in the word web. The main topic should connect to the other three."
+        words: ["almsgiving", "fasting", "Lent", "prayer"]
+        structure: "Lent in center, connected to almsgiving, fasting, and prayer"
+      prayer: "Jesus, help me grow during Lent through prayer, fasting, and almsgiving."
+    catechist_instructions:
+      begin:
+        - "Ask a volunteer to read aloud the Faith Summary section."
+        - "Ask: For what do we prepare our hearts as we think of Jesus in the desert during Lent? (the celebration of Jesus' Resurrection)"
+        - "What do we focus on during Lent? (our relationship with God, the needs of others, and how we can do more to help others)"
+      connect:
+        - "Write almsgiving on the board and pronounce it. Ask children to suggest words or phrases that clarify the meaning."
+        - "Do the same for intercession."
+        - "Ask children to tell something about the Prayer of the Faithful. Review the words in the Glossary if necessary."
+        - "Have a volunteer read aloud Ways of Being Like Jesus."
+        - "Say: Sometimes the best way to help people is simply to listen to what is worrying them or causing them trouble. Often just having a friend to talk to makes people feel better."
+      activity: "Read aloud the directions. When they have completed the diagram, ask children to give examples of each Lenten practice."
+      prayer: "Say: Let's take a moment to pray to Jesus. We'll pray aloud together. Read the prayer aloud together as a group. Then lead children in praying the Sign of the Cross, ending with Amen."
+    if_time_allows:
+      - activity: "Interactive Session Review"
+        description: "Access an Interactive Session Review via QR code."
+      - activity: "Lenten Practices"
+        description: "Have children make an elaborated word web based on the activity on page 167. Children can draw, label, and cut out from construction paper or from printouts from the internet pictures representing Lent, almsgiving, prayer, and fasting. Have children arrange the pictures around the image for Lent in the center of a large sheet of construction paper, glue the pictures to the paper, and add pieces of string or yarn to connect them to the image of Lent in the center."
+
+  at_home:
+    page: 168
+    title: "With My Family"
+    catechist_close:
+      instruction: "Invite children to share this tear-out page with their families."
+      closing_statement: "Tell me some of the ways you've found to act more like Jesus. I'd like to hear your ideas!"
+    scripture_together:
+      text: "Jesus teaches us to give out of love and compassion."
+      reading: "Matthew 6:1–4"
+      discussion_questions:
+        - "How does Jesus say a person should give alms?"
+        - "Describe a time when you helped someone without calling attention to what you did."
+        - "How does it help the family when you contribute quietly without expecting praise or a reward every time?"
+    faith_on_the_go: "What are some ways our family can practice prayer and giving together, during Lent and at all other times?"
+    family_service_project: "Think of a service you can perform as a family for the parish or your neighborhood. Make a plan and carry it out."
+    family_prayer: "Dear Lord, help us know that our reward for giving of ourselves and what we have is in growing closer to you. Amen."
+
+assessment:
+  session_assessment: "Available at www.findinggod.com"
+  unit_assessment: "Unit Assessment BLM 4 — photocopy and administer during the session or send home."
+
+plan_ahead: "Consult the catechist preparation pages to prepare for Session 21 and determine any materials you will need."

@@ -1,0 +1,290 @@
+session: 13
+title: "The Church Prays"
+unit: 3
+unit_title: "The Church, Our Community in the Spirit"
+book_pages: "105–112"
+theme: "The liturgy, with the Eucharist at its center, is the Church's prayer that nourishes our faith."
+duration: "1 hour"
+
+sources:
+  book_scan: "rawdata/scan9and13.pdf"
+
+outcomes:
+  - "Describe how Jesus teaches us to pray."
+  - "Explain how Jesus is present in the Mass and the sacraments."
+  - "Identify sacramentals as blessed objects that help us pray."
+  - "Tell the story of Jesus healing the Roman officer's servant."
+  - "Define blessing, crucifix, rosary, and sacramental."
+
+vocabulary:
+  blessing: "A prayer that calls for God's power and care for a person, place, thing, or special activity."
+  crucifix: "A cross with a figure of Jesus on it."
+  rosary: "A string of beads used to pray a sequence of prayers; a devotion to Mary."
+  sacramental: "An object, prayer, or blessing given by the Church to help us grow in our spiritual life."
+
+scripture:
+  - reference: "Matthew 6:5–8"
+    context: "Jesus the Son's teaching on prayer as a personal encounter with God the Father. From the Sermon on the Mount, Jesus invited the Apostles and gathering crowds to contemplate how they worshiped God."
+    use: "Engage — Proclaim God's Word"
+  - reference: "Luke 7:1–10"
+    context: "The story of Jesus praising the faith of the Roman officer as he cures the officer's servant."
+    use: "Explore — Jesus and the Roman Officer / Art Print 13 (student page 108)"
+  - reference: "Luke 7:6–7"
+    context: "'Lord, do not trouble yourself, for I am not worthy to have you enter under my roof. Therefore, I did not consider myself worthy to come to you; but say the word and let my servant be healed.'"
+    use: "Explore — Art Print 13 story and Link to Liturgy"
+  - reference: "Luke 17:20–21"
+    context: "Asked by the Pharisees when the kingdom of God would come, he said in reply, 'The coming of the kingdom of God cannot be observed, and no one will announce, Look, here it is, or, There it is. For behold, the kingdom of God is among you.'"
+    use: "Reflect — Reading God's Word sidebar (student page 110)"
+  - reference: "Matthew 8:8"
+    context: "'Lord, I am not worthy to have you enter under my roof; only say the word and my servant will be healed.' Words echoed in Mass before receiving Holy Communion."
+    use: "Reflect — My Soul Shall Be Healed (student page 109)"
+  - reference: "Ephesians 6:18–19"
+    context: "Paul wrote about praying for ourselves and for other people."
+    use: "At Home — Scripture Together (page 112)"
+
+catechist_preparation:
+  three_minute_retreat:
+    scripture: "Luke 7:7"
+    text: "Therefore, I did not consider myself worthy to come to you; but say the word and let my servant be healed."
+    reflection: "'Seeing is believing' is certainly not the credo for the Roman officer in this story. He knows that Jesus has the ability to act, regardless of time or space. He has observed the power of the word of Jesus and has faith in him. As Jesus overcame physical distance to heal the Roman officer's servant, he also reaches out to touch our lives. In the sacramental life of the Church, especially in the Eucharist, Jesus is present to help us grow in faith. Nurtured by the sacraments, our lives become one way that Jesus reaches out and is present to others."
+    question: "What do I need to ask Jesus to heal today? How can I guide the children I catechize in praying for Jesus' intercession on behalf of the needs of others?"
+    prayer: "Jesus, healer and giver of life, let your Word heal me and all in need of healing, and may your sacraments strengthen me so that I can be a sign of your love in the world today."
+  tradition:
+    text: "Church Tradition holds that in the early Church, it was prayer that led to statements of belief. This is expressed in the phrase Lex orandi, lex credendi — 'The law of prayer is the law of belief.' Although the phrase originated with a fifth-century Christian writer, the principle gained new importance after the Second Vatican Council. While we pray as individuals, as Christ taught us, the Church itself also prays in the form of the liturgy with the Eucharist at its center. The Second Vatican Council's document on the sacred liturgy states, 'When the Church prays or sings or acts, the faith of those taking part is nourished.'"
+  catholic_social_teaching:
+    themes:
+      - "Call to Family, Community, and Participation"
+    reference: "See page 85b for an explanation of this theme."
+  catechism_reference: "CCC 1124 and 1127"
+  general_directory: "GDC 70 — the importance of worshiping and praying as a community"
+
+prayer_in_session:
+  description: "In this session, children reflect on Jesus' healing of the Roman officer's servant. They listen to a recorded guided reflection, 'Faith in Jesus.' First, listen to the recording as a prayerful experience. If you choose, you can lead the guided reflection yourself. An alternative approach is to use the prayer on the children's page."
+
+before_this_session:
+  - "Bookmark your Bible to Matthew 6:5–8, Luke 7:1–10, and Luke 17:20–21. Place the Bible open to one of these passages in your Prayer Center."
+  - "Read the Guide for this session, choose any additional multimedia content or If Time Allows activities, and gather listed materials."
+
+materials:
+  required:
+    - "Bible"
+    - "Device with QR code reader and internet access"
+    - "Art Print 13: The Centurion Kneeling (easel)"
+    - "Sacramentals, such as a cross, rosary, and medal"
+    - "Recorded Guided Reflection: 'Faith in Jesus'"
+    - "Art supplies"
+    - "Writing supplies"
+  optional:
+    - "Scripture BLM 13"
+    - "Activity BLM 13"
+    - "Cardstock"
+    - "Box for collecting small items, construction paper, scissors, glue"
+    - "Scripture Prayer Service BLM 13"
+    - "Assessment: Session 13 (www.findinggod.com)"
+
+steps:
+  engage:
+    page: 105
+    duration: "15 minutes"
+    title: "The Church Prays"
+    student_page_content:
+      gods_word: "Read and listen to Matthew 6:5–8."
+      summary: "Jesus wants us to feel close to him. He invites us to pray quietly and not worry about the words we use. The purpose of praying is not to show off or prove something, but to open ourselves to Jesus and to God the Father. God knows what we need. All we have to do is ask, and then listen, in prayer."
+      connection_to_sacraments: "During Mass, we pray together. Then we can feel especially close to Jesus. The sacraments help us to know Jesus in a real way. When we receive the Sacrament of the Eucharist, we know Jesus is present. We are blessed to have different ways to be close to Jesus."
+      prayer: "Jesus, help me know your presence through prayer and the sacraments. Help me grow in my love of God."
+    understanding_scripture: "The passage is from the Sermon on the Mount, a long talk Jesus gave to a huge crowd that had gathered to hear him. In that sermon, Jesus invited the Apostles and the gathering crowds to contemplate how they worshiped God. He gave three examples: giving to the poor, praying, and fasting. Jesus called on his followers to pray from a desire to be in a loving and intimate relationship with God the Father, rather than from a craving to receive praise and attention from others. In this way, Jesus calls us into a deep and authentic relationship with God."
+    catechist_instructions:
+      open_your_heart: "Invite children to quiet themselves and prepare to hear sacred Scripture."
+      proclaim_gods_word: "Take the Bible from the Prayer Center. Read Matthew 6:5–8. Then say: The Gospel of the Lord. Invite children to respond Praise to you, Lord Jesus Christ."
+      the_word_alive:
+        - "Invite children to make a list of whom they talk with most often."
+        - "Say: We talk most often with those people who are closest and most important to us. It is important that we talk with God so that we can grow closer to him."
+        - "Read the paragraphs aloud."
+        - "Ask: How does praying quietly and sincerely help us feel closer to God? (We give God our full attention.)"
+      prayer: "Say: As we pray, think of how blessed we are when we receive the sacraments. Pray together the prayer. Pause for reflection; then pray Amen."
+    if_time_allows:
+      - activity: "Scripture BLM: Matthew 6:5–8"
+        description: "Have children complete Scripture BLM 13 to gain a better understanding of the passage."
+
+  explore:
+    pages: "106–108"
+    duration: "20 minutes"
+    title: "The Liturgy, the Church's Prayer"
+    student_page_content:
+      jesus_is_present:
+        text: "Jesus is especially with us at Mass. Through the Holy Spirit, Jesus is present in the priest. He is present in the people gathered in their different roles. He is present in the Scriptures and in the Sacrament of the Eucharist."
+        eucharist: "The Eucharist is the center and high point of the Mass. It is one of seven sacraments Jesus gave us. The sacraments nourish our relationship with God the Father through Jesus the Son and the Holy Spirit."
+      prayer_gesture_and_ritual:
+        text: "Mass is filled with prayer and ritual. We pray the same prayers together in the same order. We sing as we pray some of the prayers, such as 'Glory to God' and 'Holy, Holy, Holy.' We perform gestures together such as standing, kneeling, bowing, and receiving Holy Communion."
+      signs_of_grace:
+        text: "With the sacraments, we receive God's grace. The sacraments are outward signs of God's grace. These signs include the pouring of water on us in Baptism and eating the bread and drinking the cup in the Eucharist."
+        sacramentals: "The Church gives us other signs, called sacramentals. Sacramentals are objects, prayers, or blessings that help us grow in our spiritual life. Blessings are prayers that call for God's power and care for a person, place, thing, or special activity. Sacramentals can help is in prayer. Holy water, crucifixes, icons, rosaries, ashes, and palm branches are examples of sacramentals."
+        did_you_know: "Catholic life is nourished by practicing forms of piety in popular devotions, such as processions and pilgrimages, Stations of the Cross, the rosary, Eucharistic Adoration outside of Mass, and religious medals."
+      activity_sacramental_at_your_house:
+        description: "Describe a sacramental that you have at home or you would like to have. How does it help you grow in your faith?"
+      jesus_and_the_roman_officer:
+        intro: "Before we receive Holy Communion, we pray important words. The words were first spoken by a Roman army officer who had faith in Jesus' power to heal."
+        story: "Jesus had gone to a town on the Sea of Galilee. A Roman officer there had a servant who was not well. The officer sent friends to ask Jesus to save the servant's life. These friends told Jesus that the officer had been good to the Jewish people in the region. Jesus went with them toward the officer's house. As they drew near, messengers told Jesus that the officer said: 'Lord, do not trouble yourself, for I am not worthy to have you enter under my roof. Therefore, I did not consider myself worthy to come to you; but say the word and let my servant be healed.' — Luke 7:6–7"
+        conclusion: "Jesus was amazed when he heard this. He said he had never seen such faith. The officer's friends returned to find the servant healthy."
+      activity_mission_to_all_people:
+        description: "The officer had never met Jesus, but he had faith in Jesus. Jesus showed that his mission was to all people. On a separate sheet of paper, write how you can show you care for all people as Jesus does."
+      link_to_liturgy: "Before we receive Holy Communion at Mass, we pray 'Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed.'"
+    catechist_instructions:
+      the_liturgy:
+        begin:
+          - "Ask: When you go to Mass, who is there with you? (my family, friends, the priest, deacon, altar servers, eucharistic ministers, readers, cantor, choir, Jesus)"
+          - "If children have not named Jesus, ask: Who else? Who is the most important one with us in the Mass? (Jesus)"
+        connect:
+          - "Have a volunteer read aloud the heading and the first paragraph."
+          - "Say: Let's list ways Jesus is present to us in the Mass. (through the priest, the people, the Scriptures, and the Eucharist)"
+          - "Have a volunteer read aloud the second paragraph. Ask: Why is the Eucharist the center of the Mass? (We receive Jesus as part of us.)"
+          - "If you wish, you can have children turn to pages 264–266 in their books to see more about prayer in the Mass."
+          - "Ask: Which prayers in the Mass are you familiar with? (Many children may say 'The Lord's Prayer.') What do standing, kneeling, and bowing convey? (deep respect, reverence)"
+          - "Say: We will learn about the other sacraments in upcoming sessions."
+          - "Have children look at the picture at the bottom of the page. Ask: What is shown? (a chalice with the Blood of Christ, and hosts, the Body of Christ)"
+        close: "Say: The liturgy is the sequence of prayers, songs, gestures, and the Sacrament of the Eucharist that takes place in Mass. As we pray together in Mass, we say that the Church prays."
+      signs_of_grace:
+        begin:
+          - "Display examples of sacramentals, such as a rosary."
+          - "Say: We will learn a word for these items and how each can deepen our faith."
+        connect:
+          - "Read aloud the heading and the first paragraph. Ask: What are the sacraments' outward signs of? (grace) What is a sign of Baptism? (water) What are the signs of the Eucharist? (bread and wine)"
+          - "Read aloud the next paragraph. Invite volunteers to read aloud the definitions of blessing, sacramental, crucifix, and rosary from the Glossary. Note that Rosary as the sequence of prayers is defined and listed in Words I Learned next session. Here, the word rosaries refers to strings of beads used to pray the Rosary."
+          - "Say: Sacramentals help us know God's presence."
+        activity: "Read aloud the directions and have children write their descriptions. Discuss their responses."
+        did_you_know: "Read aloud the feature. Ask: How do these devotions nourish our Catholic life? (They provide direct experience of our beliefs.)"
+        close: "Use the following page and the Art Print easel to teach Art Print 13: The Centurion Kneeling."
+      art_print:
+        begin:
+          - "Display the Art Print easel open to Art Print 13. Introduce the artwork using information from About the Artist and Art+facts."
+          - "Ask: Which person in the painting is Jesus? (the man with the blue cloak) How can you tell? (He has a halo.) Where is the servant? (He is not in the painting.)"
+          - "Say: Today we will read the story behind this painting."
+        connect:
+          - "Read aloud the introduction and discuss the question."
+          - "Invite volunteers to take turns reading Jesus and the Roman Officer."
+          - "Ask: Why did the officer ask for Jesus? (He had heard about Jesus' healing.) Why didn't the officer want Jesus to go to his house? (He didn't feel deserving.) What was the result of the officer's faith? (He found his servant healthy.)"
+          - "Have children listen as you play 'Jesus and the Roman Officer.'"
+        activity: "Have a volunteer read aloud the directions. Give children time to write. Discuss their responses."
+        close: "Invite children to reflect on the artwork and to pray a silent prayer asking the Holy Spirit to guide them as they grow in faith."
+        link_to_liturgy: "Read aloud this feature. Then say: As we prepare to receive Holy Communion, we express our faith that God the Father will heal us through Jesus the Son by forgiving our sins."
+    if_time_allows:
+      - activity: "Activity BLM: Jesus Is Present"
+        description: "Have children complete Activity BLM 13 to write and draw pictures about ways Jesus is present at Mass."
+      - activity: "Service: Sacramentals to Share"
+        description: "Have children decorate a sacramental exchange box using designs consisting of shapes the children cut from construction paper. Children could cut out shapes such as crosses, water drops, and beads to represent sacramentals. Arrange with your catechetical leader to place the box in your parish. Invite families to contribute extra sacramentals they have in their homes and/or to share in the sacramentals collected."
+        catholic_social_teaching_link: "Family and Community"
+      - activity: "Art Studio: The Centurion's Servant"
+        description: "Distribute art supplies. Say: The Art Print does not show the servant because Jesus is healing him from a distance. Invite children to imagine they are present when the servant realizes he is well again. Encourage them to draw what they imagine."
+    ideas_to_share:
+      topic: "Liturgy"
+      quote: "Liturgy comes from an ancient Greek word meaning 'a public work.' In Christian tradition, the word liturgy means our participation in the work of God."
+    inclusion:
+      cognitive: "To help children understand the gestures listed on page 106, play Simon Says or simply act out with the child kneeling, standing, bowing, and receiving the Eucharist. Provide cards showing the gestures and hand positions."
+
+  reflect:
+    pages: "109–110"
+    duration: "15 minutes"
+    title: "My Soul Shall Be Healed"
+    student_page_content:
+      my_soul_shall_be_healed:
+        text: "On the previous page, you read a story from Scripture, the Gospel of Luke, of Jesus and the Roman officer. Matthew tells this story too. In the quiet of your heart, pray the imaginative prayer below."
+        prayer: "Imagine you are one of the many people following Jesus that day. You watch and listen as the officer approaches Jesus and speaks to him. Jesus tells him he will come to heal his servant. You hear the officer answering Jesus: 'Lord, I am not worthy to have you enter under my roof; only say the word and my servant will be healed.' — Matthew 8:8"
+        connection: "At Mass, shortly before we come forward to receive Holy Communion, we pray using words similar to the Roman officer's: Lord, I am not worthy that you should enter under my roof; but only say the word and my soul shall be healed."
+        reflection: "To 'enter under my roof' means for Jesus to enter into our lives so we can encounter him personally. Reflect on how you feel knowing that you can encounter Jesus through his real presence in the Eucharist. Thank Jesus for being with us."
+      gifts_from_god:
+        text: "God has given us gifts in the sacraments and the sacramentals."
+        reading_gods_word:
+          text: "Asked by the Pharisees when the kingdom of God would come, he said in reply, 'The coming of the kingdom of God cannot be observed, and no one will announce, Look, here it is, or, There it is. For behold, the kingdom of God is among you.'"
+          reference: "Luke 17:20–21"
+      activity_gods_gifts_to_us:
+        description: "Finish sentences 1–4 and the first part of 5. Use the words you wrote there to fill in the puzzle. Then unscramble the circled letters and finish sentence 5 with another gift."
+        sentences:
+          - "1. Sacramentals help us grow in _faith_."
+          - "2. At Mass, Jesus is _present_ in the priest, in the people, and in the Scriptures."
+          - "3. The _blessing_ of a person or place is one type of sacramental."
+          - "4. Bread and wine are signs of the _Eucharist_."
+          - "5. A _sacrament_ is an outward sign of the _grace_ we receive from God."
+        puzzle_answer: "GRACE (unscrambled from circled letters: F, A, I, T, H → P, R, E, S, E, N, T → B, L, E, S, S, I, N, G → E, U, C, H, A, R, I, S, T → S, A, C, R, A, M, E, N, T)"
+    catechist_instructions:
+      prayer:
+        approach_1_childrens_prayer:
+          prepare: "Pray the reflection on page 109 in advance to become familiar with it."
+          instructions:
+            - "Invite children to be quiet and find a comfortable position. Read aloud the text above the prayer."
+            - "Then read aloud the imaginative prayer, pausing after each sentence."
+            - "When you have finished, say: Jesus reaches out to others through us. Let's talk about ways we have felt that occurring. Discuss children's ideas."
+        approach_2_recorded_guided_reflection:
+          prepare: "Listen in advance to the recorded guided reflection 'Faith in Jesus.' Decide if you will use the recording or lead the reflection yourself. If you choose to lead, listen to the recording a second time, following the script [pages T-312–T-313] and noting pauses and tone. You can then use the script or adapt it as you wish."
+          instructions: "During the session, play the recording or lead using the script, joining children in reflective prayer. If you use the script, play reflective music softly in the background."
+      gifts_from_god:
+        begin:
+          - "Hold out your hands to pantomime offering a gift."
+          - "Say: Pretend I have a gift for you. Ask: What might my gift to you be? (Possible answers: something children have been wanting or something nonmaterial) Why do we give a gift to someone? (Possible answer: to show they mean something to us) How do you respond when you receive a gift? (feel cared for; say thank you)"
+          - "Say: Jesus loves us and gives us gifts. Now we will learn about those gifts."
+        connect:
+          - "Ask a volunteer to read aloud the heading and the sentence before the activity."
+        activity: "Read aloud the instructions. Say: This is an activity that reminds us of God's many gifts. Have children complete the sentences independently and fill in the puzzle, but tell children not to fill in the second word in sentence 5. When children have finished, ask volunteers to tell which letters are circled in the boxes. Write them on the board. Have children unscramble the letters to complete sentence 5. Read aloud the entire sentence."
+        close: "Direct children's attention to Reading God's Word."
+        reading_gods_word: "Ask a volunteer to read aloud the passage. Then ask: What does Jesus' answer mean to you? (Possible answers: Jesus works through us. We find God in all things.)"
+    if_time_allows:
+      - activity: "Scripture Prayer Service BLM: Matthew 6:5–8"
+        description: "For an optional Prayer Service focused on this session's opening Scripture passage, refer to Scripture Prayer Service BLM 13."
+      - activity: "Partners in Prayer"
+        description: "Have children work in pairs to memorize the prayer, 'Lord, I am not worthy . . . ,' that we pray before receiving Holy Communion."
+      - activity: "Sacramental Treasure Hunt"
+        description: "Distribute writing paper and pencils. Tell children that they will be going on a treasure hunt for sacramentals. Review some examples, such as the Bible, blessings, statues, and rosary, and write them on the board. Say: When you go home today, see how many sacramentals you can find. Tell children to write in which room they found each sacramental. Encourage children to ask their families to help in the search. If children don't have sacramentals at home, invite them to name one or two objects in their homes they might like to have blessed as sacramentals."
+    coaching_children_to_pray: "Invite children to reflect on the strength of the officer's faith that surprised even Jesus. Have children imagine what the officer must have heard about Jesus that gave him such faith."
+
+  respond:
+    page: 111
+    duration: "10 minutes"
+    title: "Living My Faith"
+    student_page_content:
+      faith_summary: "Jesus Christ is present in the Mass and in the sacraments. Jesus gives us the sacraments as signs of his grace. In addition, the Church gives us sacramentals to help us grow in faith."
+      words_i_learned:
+        - "blessing"
+        - "rosary"
+        - "crucifix"
+        - "sacramental"
+      ways_of_being_like_jesus: "Jesus reached out to all people, not just those who were like him. Reach out to someone who is different from you."
+      activity_we_receive_gods_grace:
+        description: "In the chart, list two sacraments and two sacramentals named in this session. Draw a symbol for one of each."
+        chart:
+          sacraments: ["Baptism", "Eucharist"]
+          sacramentals: "Possible answers: crucifix, ashes, palm branch, holy water"
+      prayer: "Jesus, thank you for the gift of the sacraments. Help me share the grace of the Holy Spirit so that others may grow in love of God your Father and their neighbor."
+    catechist_instructions:
+      begin:
+        - "Faith Summary: Read aloud this section. Ask: Who is present in the sacraments? (Jesus) What are sacramentals? (blessings or objects that have been blessed, such as holy water or rosary beads, that help us grow in faith)"
+      connect:
+        - "Words I Learned: Read aloud the words. Ask: What are some examples of blessings? (Possible answers: blessing of animals, homes, food baskets at Easter) Review examples of sacramentals. Have children look up the words in the Glossary."
+        - "Ways of Being Like Jesus: Read aloud this section. Ask children to name some different people Jesus reached out to, and write them on the board. (Examples: fishermen, children, a rich man, large crowds, a soldier with a servant who was not well)"
+      activity: "Read aloud the directions. Allow children time to write the names of the two sacraments and two sacramentals, and to make one drawing for each. Invite any children who wish to share their answers and/or drawings."
+      prayer: "Say: Today we learned about Jesus' gift of the sacraments. Let us pray a prayer of thanks to Jesus. Pray the prayer together. Conclude by praying Amen."
+    if_time_allows:
+      - activity: "Interactive Session Review"
+        description: "Access an Interactive Session Review via QR code."
+
+at_home:
+  page: 112
+  title: "With My Family"
+  catechist_close:
+    instruction: "Invite children to share this tear-out page with their families."
+    closing_statement: "This week, take some time to reflect on how Jesus taught us to pray."
+  scripture_together:
+    text: "An early Church leader named Paul traveled to many places to tell people about Jesus. He wrote letters to the Christians he had visited. Paul wrote about praying for ourselves and for other people."
+    reading: "Ephesians 6:18–19"
+    discussion_questions:
+      - "How often does Paul suggest that people pray?"
+      - "On what occasions might you have prayed today, even if only for a second?"
+      - "Describe a moment in your day today and a prayer that could go with it."
+  faith_on_the_go: "Which sacramental in our home is your favorite? Why?"
+  family_activity:
+    title: "Share a Family Dinner"
+    description: "At dinner, ask each family member to describe a highlight of his or her day. Listen carefully. Each family member should learn more by asking one question of the person sharing."
+  family_prayer: "Dear God, Thank you for blessing us with the gift of your Son, Jesus, and for the sacraments and sacramentals that help us grow in faith. Amen."
+
+assessment:
+  session_assessment: "Available at www.findinggod.com"
+
+plan_ahead: "Consult the catechist preparation pages to prepare for Session 14 and determine any materials you will need."

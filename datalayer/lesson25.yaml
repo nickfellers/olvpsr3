@@ -1,0 +1,341 @@
+session: 25
+title: "Celebrating Easter"
+unit: 5
+unit_title: "Morality: Our Lived Faith"
+book_pages: "205–210"
+theme: "Easter is a time to celebrate God's merciful love."
+duration: "1 hour"
+
+sources:
+  book_scan: "rawdata/session25_easter_llamaparse.md"
+
+outcomes:
+  - "Talk about how Jesus the Son invites us to be loving and forgiving like God the Father."
+  - "Discuss how Easter is a time to rejoice in God the Father's merciful love."
+  - "Tell about the joy of Christ's Resurrection."
+  - "Define Lamb of God and mercy."
+
+vocabulary:
+  lamb_of_god: "A title for Jesus. Jesus, the Lamb of God, gave up his life for the salvation of the world."
+  mercy: "Compassion and forgiveness. By having mercy, we recognize that we all can have problems that affect how we act; instead of criticizing and judging, we try to help."
+
+scripture:
+  - reference: "Luke 6:35–36"
+    context: "Jesus teaches us to give without expecting anything in return and to be kind whether or not the person is good. This is what God the Father does."
+    use: "Engage — Proclaim God's Word"
+  - reference: "Psalm 103:8"
+    context: "Merciful and gracious is the LORD, slow to anger, abounding in mercy."
+    use: "Explore — Reading God's Word sidebar (student page 206)"
+  - reference: "Ephesians 2:4–7"
+    context: "God, who is rich in mercy, brought us to life with Christ and shows immeasurable riches of grace in his kindness to us."
+    use: "Explore — Merciful Is the Lord (student page 206)"
+  - reference: "Matthew 9:9–13"
+    context: "Jesus calls Matthew the tax collector and teaches that God came for everyone, not just some. Those most in need deserve love and mercy."
+    use: "At Home — Scripture Together (page 210)"
+
+catechist_preparation:
+  three_minute_retreat:
+    scripture: "Ephesians 2:4–7"
+    text: "God, who is rich in mercy . . . brought us to life with Christ . . . , raised us up with him, and seated us with him in the heavens . . . that in the ages to come he might show the immeasurable riches of his grace in his kindness to us in Christ Jesus."
+    reflection: "We do not earn God's mercy through our actions. When Paul says that God is rich in mercy, he means that God has more mercy to give than will ever be needed. Since we are God's creation, we are the recipients of that mercy, poured out in Jesus, God's only Son. God loves us completely, and there is no end to the grace he bestows on us. God's mercy is greater than anything we do or desire."
+    question: "What do I need to ask of Jesus as I plan for my catechesis and encounter the children I teach?"
+    prayer: "Jesus, provide me with the courage to face you, learn from you, and love you."
+  tradition:
+    text: "Easter Sunday begins a 50-day celebration of the Paschal Mystery—the Passion, Death, Resurrection, and Ascension of Jesus Christ. Easter Sunday is the third and final day of the Paschal Triduum, the three days beginning on the evening of Holy Thursday. On Holy Saturday evening, we celebrate the Easter Vigil; a fire, and from it the paschal candle, are lit. The story of salvation is told, the baptismal waters are blessed, and new converts are received into the Church. Through his Resurrection, Christ gives us new birth in the Holy Spirit and renews the gift of life within us."
+  catholic_social_teaching:
+    themes:
+      - "Call to Family, Community, and Participation"
+    reference: "See page 169b for an explanation."
+  catechism_reference: "CCC 639–644 — the mystery of Christ's Resurrection"
+  general_directory: "GDC 91 — the relationship between catechesis and the Easter season"
+
+prayer_in_session:
+  description: "Children thank God for his merciful love and for guidance to share this gift with others. The prayer includes time for children to talk with God in the silence of their hearts and to share thoughts and concerns with him."
+
+before_this_session:
+  - "Determine whether you will use the Unit Assessment option listed on page 210."
+  - "Determine whether you will also discuss the Easter and Pentecost seasonal sections in the back of the Children's Book."
+  - "Bookmark your Bible to Luke 6:35–36, Psalm 103:8, and Ephesians 2:4–7. Place the Bible open to one of these passages in your Prayer Center."
+  - "Read the Guide for this session, choose any additional multimedia content or If Time Allows activities, and gather listed materials."
+
+materials:
+  required:
+    - "Bible"
+    - "Device with internet access and QR code reader"
+    - "Art Print 25: The Lamb of God (easel)"
+    - "Art supplies"
+  optional:
+    - "Scripture BLM 25"
+    - "Activity BLM 25"
+    - "Brown paper bags, white and other-colored construction paper, glue, gold paper, paper fasteners, scissors"
+    - "Scripture Prayer Service BLM 25"
+    - "Cardstock, scissors, hole punch, string or yarn"
+    - "Assessment: Session 25 (www.findinggod.com)"
+    - "Assessment: Unit Assessment BLM 5"
+
+steps:
+  engage:
+    page: 205
+    duration: "15 minutes"
+    title: "Celebrating Easter"
+    student_page_content:
+      gods_word: "Read and listen to Luke 6:35–36."
+      summary: "Jesus asks us to give and not expect anything in return, to be kind whether or not the person we are kind to is good. This is what God the Father does. God did not send us Jesus in return for our being good. He sent Jesus to show that he loves us as we are. We rejoice in God's merciful love during the Easter season. We celebrate the Resurrection of Jesus as the gift of God, who loves us. We pray, 'Alleluia! Alleluia!' We sing to welcome the risen Christ."
+      easter_basics: "Easter Sunday is the most important day of the Church year. It is celebrated on the first Sunday after the first full moon of spring. It begins with the Easter Vigil the night before, Holy Saturday. During the Easter season, we also celebrate the Ascension of Jesus into heaven and Pentecost, the last day of this sacred season."
+      prayer: "Jesus, help me remember the mercy God your Father sent through you as we show mercy to others."
+    understanding_scripture: "During his time on earth, Jesus preached that we should forgive others, even our enemies, just as God offers us his forgiveness. Jesus' Death was the supreme act of love and forgiveness. He suffered that Death in order to be resurrected. His love and forgiveness are renewed forever through his Resurrection. In contemplating God's mercy at Easter, we are invited to consider how Christ's forgiveness can inspire us to show mercy to those who have caused harm, even when it feels unreasonable or perhaps even impossible to do so."
+    catechist_instructions:
+      open_your_heart: "Invite children to quiet themselves and prepare to hear sacred Scripture."
+      proclaim_gods_word: "Take the Bible from the Prayer Center. Read Luke 6:35–36. Then say: The Gospel of the Lord. Invite children to respond Praise to you, Lord Jesus Christ."
+      the_word_alive:
+        - "Say: Think of having a plant that you thought had died, but when you watered it, it became full and healthy again."
+        - "Ask: How might that represent God's mercy? (God gave the plant new life.)"
+        - "Read aloud the paragraphs."
+        - "Say: During the Easter season, we celebrate God's merciful love. What does mercy mean? (forgiveness)"
+        - "Say: The risen Christ chose mercy instead of revenge."
+      prayer: "Say: Pray in your hearts as I pray aloud. Pray the prayer and allow a moment of quiet reflection. Then conclude by praying Amen."
+    if_time_allows:
+      - activity: "Scripture BLM: Luke 6:35–36"
+        description: "Have children complete Scripture BLM 25 to gain a better understanding of the passage."
+
+  explore:
+    page: 206
+    duration: "15 minutes"
+    title: "Merciful Is the Lord"
+    student_page_content:
+      intro: "Easter is a time to reflect on God's merciful love. On the second Sunday of Easter, we celebrate God's mercy. God shows us his mercy in many ways."
+      pope_francis_quote: "Jesus is the face of the Father's mercy. Mercy has become living and visible in Jesus. Mercy [is] the . . . act by which God comes to meet us."
+      scripture_passage: "God, who is rich in mercy . . . brought us to life with Christ, raised us up with him, and seated us with him in the heavens . . . that in the ages to come he might show the immeasurable riches of his grace in his kindness to us. — Ephesians 2:4–7"
+      mercy_definition: "Mercy is made up of compassion and forgiveness. By having mercy, we recognize that we all can have problems that affect how we act. Then, instead of criticizing and judging, we try to help. That is how we show mercy."
+      reading_gods_word:
+        text: "Merciful and gracious is the LORD, slow to anger, abounding in mercy."
+        reference: "Psalm 103:8"
+      activity_mercy_of_friendship: "Write a prayer for a friend who is having a hard time."
+    catechist_instructions:
+      begin:
+        - "Say: Think of a time when you didn't do the best you could and it worried you."
+        - "Invite children to describe how someone helped them through the situation. (Children saw that they were still loved and they would always have another chance.)"
+        - "Say: This is what God's mercy is like."
+      connect:
+        - "Read aloud the heading. Write mercy on the board."
+        - "Have children look up the word in the Glossary."
+        - "Invite volunteers to read aloud the first two paragraphs."
+        - "Say: Pope Francis declared a Year of Mercy in 2015 to help Catholics better understand the importance of mercy in our faith."
+        - "Read aloud the Scripture passage."
+        - "Say: Think of ways you have known God's kindness and grace."
+      activity: "Have a volunteer read aloud the directions for The Mercy of Friendship. Offer an example of a prayer: Lord, I pray for my friend whose pet is ill. Help her know your love."
+      close:
+        - "Direct children's attention to the feature on page 206."
+        - "Read aloud the verse with children."
+        - "Ask: How do these words help us? (We know that God in his mercy always wants the best for us.)"
+    if_time_allows:
+      - activity: "Activity BLM: Have Mercy on Us"
+        description: "Have children complete Activity BLM 25 to reveal that God always has mercy on us."
+      - activity: "Seasonal Sessions: Easter and Pentecost"
+        description: "Work with children through pages 229–236 of the Children's Book and this guide. These special sessions can each take up to one hour to complete."
+
+  reflect:
+    pages: "207–208"
+    duration: "15 minutes"
+    title: "Mass During Easter"
+    student_page_content:
+      mass_during_easter:
+        text: "When you go to Mass during Easter, pay special attention to the prayer to the Lamb of God during the Fraction Rite. Jesus, the Lamb of God, gave up his life for the salvation of the world. Before receiving Holy Communion, we pray to the Lamb of God to have mercy on us."
+      what_we_experience: "When you look around your church at Easter, you may see images of the Lamb of God. This reminds us of Jesus' great sacrifice. The parish sings together joyfully that Jesus is with us always. White is the liturgical color of the season. It represents the joy of Christ's Resurrection. The priest wears white or gold vestments. The altar cloth is white. White lilies symbolize our new life in the risen Christ."
+      did_you_know: "The Ascension is celebrated on the seventh Sunday of Easter."
+      activity_see_the_lamb_of_god: "In the box next to the lamb, write words or draw symbols for Easter."
+      art_print_25:
+        prompt: "Art Print 25 shows many Christian symbols. What symbols are used in your home to celebrate the joyful time of Easter?"
+        celebration_of_life: "Easter is the celebration of life. Jesus was born and lived to teach us how to be closer to God his Father. Jesus died so that our sins could be forgiven and our souls could be joined forever with God. God sent his Son, Jesus, to show us his mercy and love."
+        the_resurrection: "After Jesus' Death, his friends came to his tomb and found it empty. His friends were afraid. Jesus appeared to Mary Magdalene and told her not to be sad. He also appeared many times to comfort and encourage the Apostles. He appeared to Peter with the instructions to take care of his sheep. By 'sheep,' he meant his people. As disciples we are called to do the same as Peter. We celebrate Easter by committing ourselves to the service of others."
+        activity_in_celebration_of_easter: "Jesus showed us how to treat others with compassion, respect, and mercy. In celebration of Easter, draw a picture of yourself doing one of those things."
+    catechist_instructions:
+      begin:
+        - "Discuss where children may have seen lambs during Easter."
+        - "Remind children that lambs at Easter symbolize Jesus, the Lamb of God."
+      connect:
+        - "Read aloud the first paragraph. Write Lamb of God on the board."
+        - "Ask: Who is the Lamb of God? (Jesus)"
+        - "Discuss how at Easter we celebrate Jesus, the Lamb of God."
+        - "Explain that as we call upon the Lamb of God to show mercy on us, the extraordinary ministers of Holy Communion are gathering around the altar."
+        - "Say: At one time, lambs were sacrificed as a religious offering. We use this symbol today because of the great sacrifice Jesus made by dying on the cross for our sins."
+        - "Ask: Why is joyful music played? (because the parish rejoices that Jesus is with us always)"
+        - "What is the liturgical color of the season? (white)"
+      activity: "Ask a volunteer to read aloud the directions for See the Lamb of God. Invite volunteers to share the symbols they drew."
+      did_you_know_instruction: "Read aloud the feature. Explain that the Feast of the Ascension celebrates Jesus' Ascension into Heaven 40 days after his Resurrection."
+      close:
+        - "Use the following page and the Art Print easel to teach Art Print 25: The Lamb of God."
+      art_print:
+        begin:
+          - "Display the Art Print easel open to Art Print 25."
+          - "Ask: What do you see in this painting? (a cross, a lamb with a halo, a lion with wings, a winged man, a winged ox, an eagle; all are holding books)"
+          - "Say: The person and animals in the painting have wings, which are symbols of heavenly power. They have books, which are the Scriptures."
+          - "Ask: Why do you think the lamb is a symbol of Jesus? (We call Jesus the Lamb of God because of his sacrifice on the Cross.)"
+        connect:
+          - "Have children turn to page 208 in their books."
+          - "Read aloud the introduction and discuss the question."
+          - "Invite a volunteer to read aloud Celebrate Easter."
+          - "Ask: Why did God send Jesus? (to show us his mercy and love)"
+          - "Have a volunteer read aloud The Resurrection."
+          - "Ask: Why were the Apostles afraid? (Their teacher and friend had been crucified; they were confused and sad.)"
+          - "How did Jesus help Mary Magdalene? (He appeared to her and told her not to be afraid.)"
+        activity: "Read aloud the directions for In Celebration of Easter. Give children time to complete their drawings."
+        close: "Invite children to reflect on the artwork and to pray a silent prayer thanking God for his merciful love."
+    if_time_allows:
+      - activity: "Scripture Prayer Service BLM: Luke 6:35–36"
+        description: "For an optional Prayer Service focused on this session's opening Scripture passage, refer to Scripture Prayer Service BLM 25."
+      - activity: "Service: An Easter Display for the Church"
+        description: "Have children make a class Resurrection scene. Use brown paper bags to make a tomb and construction paper for the rock (attached with a fastener so it can be rolled away). Cut out trees and an angel from tissue to place outside the tomb. Glue parts to a large sheet of paper. Arrange to display at church entrance."
+      - activity: "Art Studio: Easter Symbols"
+        description: "Recall the Art Print. Provide children with colored pencils and paper. Invite children to draw their own symbols for Easter. Play reflective music in the background."
+
+  respond:
+    page: 209
+    duration: "10 minutes"
+    title: "Living My Faith"
+    student_page_content:
+      faith_summary: "At Easter, we celebrate Jesus' Resurrection. We learn of the mercy shown by God the Father. We pray to Jesus the Son as the Lamb of God to have mercy on us and grant us peace."
+      words_i_learned:
+        - "Lamb of God"
+        - "mercy"
+      ways_of_being_like_jesus: "Jesus showed mercy to others. Forgive, even when it is difficult."
+      activity_complete_the_prayer:
+        description: "Complete the prayer using the Words I Learned and one additional word."
+        prayer_text: "Lamb of God, you take away the sins of the world, have mercy on us. Lamb of God, you take away the sins of the world, grant us peace."
+      prayer: "Dear Jesus, thank you for your life, Death, and Resurrection, through which we are saved."
+    catechist_instructions:
+      begin:
+        - "Ask volunteers to read aloud the Faith Summary section."
+        - "Ask: What do we celebrate during the season of Easter? (The Resurrection and Ascension of Jesus, and God's merciful love)"
+        - "To whom do we pray to have mercy on us? (Lamb of God, a name for Jesus the Son)"
+      connect:
+        - "Read aloud the terms. Ask children to explain in their own words the meaning of each term."
+        - "Review the meanings given in the Glossary."
+        - "Have a volunteer read aloud Ways of Being Like Jesus."
+        - "Discuss situations when children have had a difficult time forgiving someone."
+      activity: "Read aloud the directions. Give children time to fill in the blanks to complete the prayer. Ask volunteers to share their completed prayers with the class."
+      prayer: "Say: Let's take a moment to pray to Jesus. We'll pray aloud together. Then lead children in praying the Sign of the Cross, ending with Amen."
+    inclusion:
+      working_memory: "To help children complete the Lamb of God prayer on page 209, cover the bottom four lines of the prayer with a piece of paper and ask which phrase from the Words I Learned goes in the first three blanks. Then uncover and have children fill in the next line."
+    if_time_allows:
+      - activity: "Alleluia Banners"
+        description: "Give each child eight sheets of cardstock. Have children sketch the outlines of the letters of ALLELUIA, one letter per card. Have children make designs inside the letters and then cut them out. Punch a hole at the top and string the letters together with yarn to make banners."
+
+  at_home:
+    page: 210
+    title: "With My Family"
+    catechist_close:
+      instruction: "Invite children to share this tear-out page with their families."
+      closing_statement: "When you come back, tell me some ways you've found during Easter to act more like Jesus. I can't wait to hear!"
+    scripture_together:
+      text: "Matthew was a tax collector who became one of Jesus' disciples. Some people looked down on the tax collectors and on other people with whom Jesus spent his time. Jesus' response to those people's disapproval teaches us that God came to us as Jesus for everyone, not just for some."
+      reading: "Matthew 9:9–13"
+      discussion_questions:
+        - "According to Jesus, who is most in need of God's love and mercy?"
+        - "Explain why you cannot judge a person's worth based on what they do for a living."
+        - "How can you treat others with love and mercy, as Jesus calls you to do?"
+    faith_on_the_go: "How do you feel on Easter? Describe something specific. How can we share the joy of Easter with others?"
+    activity_easter_greeting: "Make and decorate a 'Jesus is risen!' sign to place in front of your home on Easter morning or the night of Holy Saturday."
+    family_prayer: "Dear Lord, we invite you into our heart this Easter, and we thank you for our new life in your Son, our Lord and Savior, Jesus Christ. Amen."
+
+assessment:
+  session_assessment: "Available at www.findinggod.com"
+  unit_assessment: "Unit Assessment BLM 5 — photocopy and administer during the session or send home."
+
+# Easter Seasonal Session (pages 229–232)
+easter_seasonal:
+  title: "Easter"
+  book_pages: "229–232"
+  outcomes:
+    - "Tell the story of Jesus' Resurrection."
+    - "Discuss how we are called to spread the Good News."
+    - "Explain how the Church celebrates the living presence of Jesus Christ in the Eucharist."
+
+  materials:
+    required:
+      - "Bible"
+      - "Basic writing and art supplies"
+      - "Flowers"
+      - "White cloth"
+
+  engage:
+    page: 229
+    title: "Easter"
+    student_page_content:
+      summary: "Jesus' friends were hopelessly sad. Their best friend had been crucified. A man named Joseph had taken care of Jesus' body and placed it lovingly in a tomb cut into rock. Mary Magdalene went with two other women to anoint Jesus' body, but they found the tomb empty. Jesus had risen from the dead! On Easter, we remember this amazing event. During the Easter season, we celebrate the Resurrection and Ascension of Jesus. We share in the joy that Jesus' friends felt."
+      prayer: "Jesus, risen Lord, you died and rose for me. I celebrate the miracle of your Resurrection with joy and by serving God and all he creates."
+    catechist_instructions:
+      set_the_stage:
+        - "Say: Think of a time when you lost something you liked very much. (Pause.)"
+        - "Say: Now think of a time when you found something you thought you had lost."
+        - "Invite children to tell what they lost and how they found it again."
+      get_started:
+        - "Read aloud the session title. Direct children to the liturgical calendar on page 211."
+        - "Say: Find Easter on the liturgical calendar."
+        - "Invite a volunteer to read aloud the two paragraphs."
+        - "Say: Imagine yourself as Mary Magdalene. Think about what she expected to see at the tomb and what she saw."
+        - "Ask: What do we celebrate on Easter Sunday? (Jesus' Resurrection)"
+        - "Say: In this session, we will learn more about the Easter season, which begins with Easter Sunday."
+      prayer: "Invite children to close their eyes. Say: Pray in your hearts as I pray aloud. Pray the prayer. Allow a moment of quiet reflection. Then invite children to open their eyes and pray Amen together."
+
+  explore:
+    pages: "230–231"
+    title: "Jesus Is Alive! / This Is the Day"
+    student_page_content:
+      jesus_is_alive:
+        scripture: "Luke 24:1–8"
+        text: "But at daybreak on the first day of the week [the women] took the spices they had prepared and went to the tomb. They found the stone rolled away from the tomb; but when they entered, they did not find the body of the Lord Jesus. While they were puzzling over this, behold, two men in dazzling garments appeared to them. They were terrified and bowed their faces to the ground. They said to them, 'Why do you seek the living one among the dead? He is not here, but he has been raised. Remember what he said to you while he was still in Galilee, that the Son of Man must be handed over to sinners and be crucified, and rise on the third day.' And they remembered his words."
+      appearances_of_risen_jesus: "After he rose and left the tomb, Jesus appeared to Mary Magdalene and the other women, then to Peter and the other disciples. Forty days after his Resurrection, Jesus ascended into heaven. From heaven, Jesus continues to be there for us always. Someday we will join Jesus the Son with God the Father in heaven and be happy."
+      this_is_the_day:
+        text: "Each Sunday, the Lord's Day, we remember that Jesus was raised to new life. We celebrate Jesus' living presence, especially in the Eucharist. Our meetings with Jesus in the Eucharist are an important part of our life as Catholics. We meet with Jesus when we receive Holy Communion."
+        scripture: "This is the day the LORD has made; let us rejoice in it and be glad. — Psalm 118:24"
+      activity_tell_the_easter_story: "Imagine you have a friend who does not know what happened on Easter. Write the story you would tell your friend, including what happened after the women found the tomb empty."
+    catechist_instructions:
+      begin:
+        - "Draw children's attention to the picture and its title."
+        - "Ask: Why do the women look surprised and confused? (They came to take care of Jesus' body, but it is not there.)"
+        - "Say: Let's read to find out how the women responded and what they learned."
+      connect:
+        - "Invite a volunteer to read aloud Jesus Is Alive!"
+        - "Say: The women were planning to anoint Jesus' body with spices. This is a religious custom that shows respect for people who are dead. The women did not expect the tomb to be empty."
+        - "Say: The women are like us in some ways. They had to be reminded of Jesus' promise that he would rise in three days. We have learned many things about Jesus, but when we read the Scriptures and listen to stories about Jesus' life again and again, we may learn new things each time."
+        - "Invite a volunteer to read aloud Appearances of the Risen Jesus."
+        - "Ask: What happened to Jesus after he rose from the dead? (He appeared to the women, to Peter, and to others. Then, 40 days later, he ascended into heaven.)"
+        - "Ask: Which line in the paragraph is good news for us? (We will someday be happy with Jesus in Heaven.)"
+        - "Invite a volunteer to read aloud This Is the Day."
+        - "Ask: When is the Lord's Day? (Sunday)"
+        - "Say: Sunday is the day that Jesus rose from the dead and the day when we celebrate his living presence in the Eucharist."
+        - "Ask: What are some things you do differently on Sunday to make it a special day?"
+      activity: "Read aloud the directions for Tell the Easter Story. Say: To tell your Easter story, you might imagine that you are one of the disciples or women at the tomb. You want to spread the good news of the risen Jesus. Allow time for children to think and write."
+      close: "Say: Not everyone knows what we celebrate on Easter. We often meet people who wonder about our church celebrations. Let's let people know that through Jesus, we are all promised a life in heaven after death."
+    if_time_allows:
+      - activity: "Activity BLM: Easter Butterfly"
+        description: "Have children complete the Activity BLM for Easter to make butterflies that they can mount on a stick and place in a garden or a potted plant."
+      - activity: "Resurrection Symbols"
+        description: "Discuss two additional symbols of new life at Easter: eggs and lilies. Invite children to illustrate a colorful garden scene, filled with lilies and butterflies. Have children hide an Easter egg in the drawing."
+      - activity: "Messengers of the Good News"
+        description: "Arrange children into three groups. Give each group one of the words in 'Jesus has risen!' Have each group draw its word in large outlined letters on poster board and decorate the letters. Put the finished posters together to proclaim 'Jesus has risen!'"
+
+  reflect_respond:
+    page: 232
+    title: "Prayer Service"
+    setup: "Place a white cloth on the prayer table. Add flowers. Have the Bible open to 1 Corinthians 15:1–4. Select children to be the leader and the reader."
+    introduction: "Easter is a time to rejoice. During the Easter season, we sing 'Alleluia' again. Jesus kept his promise: he has risen and ascended into heaven, and we are saved. For that, we celebrate with joyous hearts."
+    prayer_service:
+      leader: "As believers in Jesus' Death, Resurrection, and Ascension, we want to share the good news of Easter with others. Saint Paul wants his friends to share in the joy of Jesus' Resurrection. Let us listen to a letter of Paul."
+      reader:
+        text: "A reading from the first letter of Paul to the Corinthians. Now I am reminding you, brothers, of the gospel I preached to you, which you indeed received and in which you also stand. Through it you are also being saved, if you hold fast to the word I preached to you, unless you believed in vain. For I handed on to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures; that he was buried; that he was raised on the third day in accordance with the scriptures."
+        reference: "1 Corinthians 15:1–4"
+        closing: "The Word of the Lord."
+      all_responses:
+        - "Thanks be to God."
+        - "We proclaim your Death, O Lord, and profess your Resurrection until you come again. Alleluia, Alleluia."
+    catechist_instructions:
+      respond:
+        - "Invite children to identify two or three important things they have learned about Easter."
+        - "Ask: How can we be witnesses to Jesus Christ? (greet others with a smile, be helpful, share, celebrate Mass joyfully, do our best at school)"
+      go_in_peace: "Collect materials and return them to the appropriate places. Remind children to share their Easter activities and ideas with their families. Say: May joy be in your hearts and in your lives. Let the joy and peace of Jesus be the gift you share with others."
+    if_time_allows:
+      - activity: "Retell the Story"
+        description: "Arrange children into four groups, one for each Gospel. Give each group a Bible and assign it the task of researching the Resurrection account from its assigned Gospel (Matthew 28:1–10, Mark 16:1–8, Luke 24:1–12, John 20:1–10). Have children in each group take turns reading aloud and then present details to the rest of the class."
+    coaching_children_to_pray: "After the close of the prayer service, encourage children to remember that the risen Jesus is with us, calling each of us to be a joyful witness of his love and to stay close to him in prayer."

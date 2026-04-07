@@ -1,0 +1,249 @@
+session: 19
+title: "Christian Living"
+unit: 4
+unit_title: "Sacraments, Our Way of Life"
+book_pages: "155–162"
+theme: "God gives us gifts and talents to serve others; we are each called to a vocation."
+duration: "1 hour"
+
+sources:
+  book_scan: "rawdata/stationsandlesson13.pdf"
+
+outcomes:
+  - "Recognize how Jesus wants us to understand 'great' and 'first.'"
+  - "Describe some vocations."
+  - "Explain that we all have received different gifts from God."
+  - "Define Holy Orders, Matrimony, and vocation."
+
+vocabulary:
+  vocation: "A call from God to live our lives in a certain way — a way of life. Vocation comes from a word meaning 'to call.'"
+  holy_orders: "The Sacrament through which men become priests and serve the Church by being ordained as deacons, both priests and deacons celebrate the Sacrament of Holy Orders."
+  matrimony: "The Sacrament in which the Holy Spirit calls some men and women to be married. They agree to live in faithful love in the Sacrament of Matrimony."
+
+scripture:
+  - reference: "Mark 10:43–45"
+    context: "Jesus teaches that whoever wishes to be great must be a servant; the Son of Man came to serve, not to be served."
+    use: "Engage — Proclaim God's Word"
+  - reference: "1 Peter 4:10"
+    context: "As each one has received a gift, use it to serve one another as good stewards of God's varied grace."
+    use: "Explore — Reading God's Word sidebar (student page 156)"
+  - reference: "John 12:24–26"
+    context: "As the time of his Death approached, Jesus called on his followers to serve God."
+    use: "At Home — Scripture Together (page 162)"
+
+prayer_in_session:
+  opening_prayer: "Jesus, remind me that to be great and first is not important. Remind me that what is important is that you are with me. What is important is for me to serve what you have created through God the Father."
+  closing_prayer: "Let's pray and thank Jesus for helping us use our gifts to serve others. Join me in praying aloud. Ask children to thank God the Father silently for the gifts he has given his people. Conclude by praying Amen."
+  imaginative_prayer: "Think about what you can do and what you like to do. What things do you do well? What would you like to learn to do? Do you use your gifts to help? Thank God the Son, Jesus, for these gifts. Tell him how you will share your gifts. Ask Jesus to help you choose a vocation that will allow you to serve others. Be still with Jesus for a few moments. Trust that Jesus will help you use your gifts and talents to serve him and others."
+
+before_this_session:
+  - "Bookmark your Bible to Mark 10:43–45, 1 Peter 4:10, and John 12:24–26. Place the open Bible in your Prayer Center."
+  - "Display the Finding God poster The Seven Sacraments."
+  - "Read the Guide for this session, choose any additional If Time Allows activities, and gather listed materials."
+
+materials:
+  required:
+    - "Bible"
+    - "Device with internet access"
+    - "Art Print 19: Many Gifts, One Spirit (easel)"
+    - "Art supplies"
+    - "Writing supplies"
+    - "Poster: The Seven Sacraments"
+  optional:
+    - "Device with QR code reader"
+    - "Scripture BLM 19"
+    - "Activity BLM 19"
+    - "Cardstock and art supplies (for Thank-You Cards)"
+    - "Scripture Prayer Service BLM 19"
+    - "Construction paper, symbols reference (for Symbols of Service)"
+    - "Multicolored index cards"
+    - "Assessment: Session 19 (www.findinggod.com)"
+
+steps:
+  engage:
+    page: 155
+    duration: "15 minutes"
+    title: "Christian Living"
+    student_page_content:
+      gods_word: "Read and listen to Mark 10:43–45."
+      summary: "Jesus taught his disciples that the ones who serve God and help other people are the true leaders among them. The ones who will be 'first' don't act as if they are more important than others. When we help others, we know that they are also helping us. When we treat others with kindness and respect, we are acting as Jesus would want us to act."
+      continued: "Jesus invites us to respect, help, and care for one another. Each of us has gifts to give the world. These gifts help us show our love and gratitude to God. We use our gifts to serve God and others. To be great, we serve. To be first, we put others before ourselves."
+      prayer: "Jesus, remind me that to be great and first is not important. Remind me that what is important is that you are with me. What is important is for me to serve what you have created through God the Father."
+    understanding_scripture: "The disciples James and John wanted to be powerful by sitting close to Jesus, but Jesus told them not to think about their status. He told them that only God can determine who receives honor in his kingdom. Jesus called all the disciples to him. He said that greatness comes from serving others, not from considering oneself superior. He said that greatness and status result from giving up both in order to serve. In Matthew, Jesus says, 'But many who are first will be last, and the last will be first' and 'Thus, the last will be first, and the first will be last.'"
+    catechist_instructions:
+      open_your_heart: "Invite children to quiet themselves and prepare to hear sacred Scripture."
+      proclaim_gods_word: "Take the Bible from the Prayer Center. Read Mark 10:43–45. Then say: The Gospel of the Lord. Invite children to respond Praise to you, Lord Jesus Christ."
+      the_word_alive:
+        - "Read aloud the paragraphs."
+        - "Ask: What does it mean to be 'great' and 'first'? (successful, powerful, important)"
+        - "How would it feel to give your place in line to another person? (good, by showing others that they are also important)"
+        - "How can you be 'great' and 'first'? (by serving God and those in need)"
+      prayer: "Say: Let's ask for Jesus' help in seeing how we can serve. Pray the prayer with me. Conclude the prayer by praying Amen."
+    if_time_allows:
+      - activity: "Scripture BLM: Mark 10:43–45"
+        description: "Have children complete Scripture BLM 19 to gain a better understanding of the passage."
+
+  explore:
+    pages: "156–157"
+    duration: "20 minutes"
+    title: "The Call to Share Our Gifts"
+    student_page_content:
+      the_call_to_share:
+        text: "God gives us many wonderful gifts. These are our special talents and abilities. The Holy Spirit calls us to share our gifts with the Church and community. We share Jesus' mission and act in his name. Each of us is called to a vocation, or way of life. Vocation comes from a word meaning 'to call.'"
+      sacrament_of_holy_orders:
+        text: "Some men become priests. They serve the Church in the name of Christ. Other men serve the Church by being ordained as deacons. Both priests and deacons celebrate the Sacrament of Holy Orders. The Sacrament includes the laying on of hands by a bishop. While laying on hands, the bishop prays for God to send the graces of the Holy Spirit needed by the ordained to serve and be a shepherd to the faithful. Outside of the sacrament, some men and women publicly dedicate their lives to serving God and the Church. Can you name someone you have learned about in this book, who has done this?"
+      sacrament_of_matrimony:
+        text: "The Holy Spirit calls some men and women to be married. They agree to live in faithful love in the Sacrament of Matrimony."
+      reading_gods_word:
+        text: "As each one has received a gift, use it to serve one another as good stewards of God's varied grace."
+        reference: "1 Peter 4:10"
+      meet_a_saint:
+        name: "Saint Andrew Kim Taegon"
+        story: "Saint Andrew Kim Taegon was the first Korean-born priest. When he was 15 years old, at the time of his childhood, he went to a seminary in southern China. He returned to Korea and began spreading God's Word as a priest. Years later, he and many others were martyred for their faith. The feast of Saint Andrew Kim Taegon and his companions is September 20."
+        question: "What was Andrew Kim Taegon's vocation? (priest) Point to the picture."
+      activity_your_vocation:
+        description: "Have you imagined what your vocation might be as an adult? Write now concisely what God's vocation might be. Each gift is a sign of God's grace. We use the gifts God gives us to serve one another."
+    catechist_instructions:
+      begin:
+        - "Ask children to name a talent they have. Encourage them to broaden their view of a 'talent.' For example, they may have interpersonal talents, such as being a good listener or being cheerful."
+        - "Say: Each of us has received different gifts, and we are each called to share these gifts in different ways."
+      connect:
+        - "Display the Finding God poster The Seven Sacraments. To begin, have children find the terms vocation and Holy Orders in the Glossary and read their definitions."
+        - "Invite a volunteer to read the heading and first paragraph."
+        - "Ask: With whom does the Holy Spirit want us to share our gifts? (Church and community)"
+        - "Ask: What is the way we are called to share our gifts? (our vocation)"
+        - "Ask children to tell about anyone they know who belongs to a religious order. Invite volunteers to read aloud Sacrament of Holy Orders. Point to the Sacrament of Holy Orders on the poster. Invite responses to the question at the end of the paragraph."
+        - "Answers might include Saint Katharine Drexel and Saints Benedict and Scholastica."
+      reading_gods_word:
+        - "Have a volunteer read aloud the passage. Ask children what it means."
+        - "Each gift is a sign of God's grace. We use the gifts God gives us to serve one another."
+      family_and_community: "Use the gifts God gives us to serve one another."
+      activity_vocation: "Ask a volunteer to read aloud your Vocation. Have children complete Activity BLM 19 to draw pictures of their gifts from God."
+      meet_a_saint:
+        - "Read the story of Saint Andrew Kim Taegon."
+        - "Ask: What was Andrew Kim Taegon's vocation? (priest) Point to the picture."
+        - "Ask: What does martyrdom (a person who accepts death rather than deny his or her faith) mean? Rather than deny his or her faith."
+      vocabulary:
+        - "Ask a volunteer to read aloud your Vocation. Have children find the terms in the Glossary and read the definitions."
+        - "Activity: Ask children to think of symbols for children to think of symbols that relate to their gifts and how they serve God and others. Ask how this relates to their gifts and how they serve God and others. Ask how this relates to their future vocations."
+      close:
+        - "Say: Saint Andrew Kim Taegon is wearing a red stole. A stole is a sign of priesthood. A stole is a sign of priesthood or diaconate office."
+        - "Use the following page and the Art Print easel to teach Art Print 19."
+      art_print:
+        title: "Many Gifts, One Spirit"
+        description: "Art Print 19 shows a brother and sister helping prepare for their meal. How do you use your gifts to help others?"
+        content: "Saint Paul wrote to his friends, explaining how they can use their gifts to help others. He wrote that there are many different kinds of spiritual gifts. They all come from the same Holy Spirit. There are different ways to serve the same God. We each do different work, but the same God helps us. The Holy Spirit works in each of us to help us do things for the good of others. Some of us can speak with knowledge and teach others. Some can heal sick people. The Holy Spirit decides which gifts to give us and calls us to use them."
+        activity_working_together: "Think of work you have done using your gifts to help someone in your life. Choose four people and write something you can do to serve them."
+        link_to_liturgy: "At Dismissal at the end of Mass, the priest or deacon sends us with instructions for spreading God's love and peace."
+        begin:
+          - "Display the Art Print easel open to Art Print 19. Briefly introduce and discuss the artwork, using information from About the Artist and Art+i+facts."
+          - "Ask: What are the children doing? (peeling fruit and/or potatoes; the boy may also be babysitting his younger sister)"
+          - "Why might they be doing this? (They are probably helping prepare a meal.)"
+          - "What gifts are they putting into service? (their eyesight, their hands, their helpfulness)"
+        connect:
+          - "Read aloud the introduction and discuss the question."
+          - "Ask volunteers to read aloud Many Gifts, One Spirit."
+          - "Ask: Why does Paul point out differences in gifts and types of work we do? (so we know there are many ways to serve God)"
+          - "Where does the variety of things we can do come from? (one Holy Spirit)"
+          - "Read aloud Working Together. Give children time to fill in the blanks. Then ask volunteers to share their answers."
+        close:
+          - "Invite children to reflect on the artwork and pray a silent prayer thanking God for their gifts."
+          - "Read aloud Link to Liturgy. Say: Next time you go to Mass, listen to and think about the words of the Dismissal."
+    if_time_allows:
+      - activity: "Activity BLM: Gifts from God"
+        description: "Have children complete Activity BLM 19 to draw pictures of their gifts from God."
+      - activity: "Service: Thank-You Cards"
+        description: "Have children select someone to thank for using his or her vocation to help others. The person thanked could be a priest, deacon, brother or sister in a religious order, a bishop, or the pope. Provide cardstock and art supplies to make thank-you notes. Have children sign only their first names. Collect the cards and send them to the selected recipients."
+      - activity: "Art Studio: We All Work"
+        description: "Distribute art supplies. Invite children to choose one of their responses to Working Together and illustrate it."
+
+  reflect:
+    page: 159
+    duration: "15 minutes"
+    title: "Reflect on God's Gifts to You"
+    student_page_content:
+      reflect_on_gifts:
+        text: "Our gifts from God include things we like to do and things we do well. Spend some time talking with God about his gifts to you. Ask for his guidance in using them. In the quiet of your heart, pray the imaginative prayer below."
+      prayer: "Think about what you can do and what you like to do. What things do you do well? What would you like to learn to do? Do you use your gifts to help? Thank God the Son, Jesus, for these gifts. Tell him how you will share your gifts. Ask Jesus to help you choose a vocation that will allow you to serve others. Be still with Jesus for a few moments. Trust that Jesus will help you use your gifts and talents to serve him and others."
+    catechist_instructions:
+      approach_1_recorded_guided_reflection:
+        prepare: "Listen in advance to the recorded guided reflection 'Our Gifts from God.' Decide if you will use the recording or lead the reflection yourself."
+        instructions: "During the session, play the recording or lead using the script, joining children in reflective prayer."
+      approach_2_childrens_prayer:
+        prepare: "Pray the prayer on page 159 in advance to become familiar with it."
+        instructions:
+          - "Say: Let us reflect on the gifts the Holy Spirit has given to us and how we can use our talents to serve God."
+          - "Have children sit in a circle. Say: Now close your eyes. We are ready to begin."
+          - "Read aloud the first paragraph, pausing after each question. Then read aloud the reflection."
+          - "Lead children in praying the Sign of the Cross."
+          - "Say: Now let's learn how we can use our talents to serve others."
+    coaching_children_to_pray: "After the close of the prayer, offer suggestions built on the last sentence of the prayer, encouraging children to thank Jesus for the gift of their talents and for his guidance in using them to help others."
+    if_time_allows:
+      - activity: "Scripture Prayer Service BLM: Mark 10:43–45"
+        description: "For an optional prayer service focused on this session's opening Scripture passage, refer to Scripture Prayer Service BLM 19."
+
+  respond:
+    pages: "160–161"
+    duration: "10 minutes"
+    title: "Living My Faith"
+    student_page_content:
+      what_will_i_do:
+        text: "God has given each of us gifts and talents. We can use them for the glory of God — to help others and make our world better for everyone. Think about your own gifts and talents and how you can use them in whatever you choose to do."
+      activity_we_offer_god_our_gifts_and_talents:
+        description: "Complete the sentences below. Look back in this session for help."
+        sentences:
+          - "1. God gives us gifts of things we _do well_ or _like to do_."
+          - "2. The _Holy_ _Spirit_ calls us to share our gifts with the Church and the community."
+          - "3. We are each called to a _vocation_ or way of life."
+          - "4. Men who become priests celebrate the Sacrament of _Holy_ _Orders_."
+          - "5. The Holy Spirit calls some men and women to be married. They agree to live in faithful love in the Sacrament of _Matrimony_."
+          - "6. As I grow, I will use my interest in _Answers will vary_ to help others by _Answers will vary_."
+      faith_summary: "God has given us talents and abilities, which are gifts from him. The Holy Spirit calls us to share these gifts. Each of us is called to a way of life that will help us share God's love."
+      words_i_learned:
+        - "Holy Orders"
+        - "Matrimony"
+        - "vocation"
+      ways_of_being_like_jesus: "Jesus served others. Share your gifts and talents with someone who is struggling or could use your friendship."
+      activity_my_gifts_and_talents:
+        description: "In the box below, draw a symbol showing something you do well or are interested in it. On the lines next to your drawing, describe how you could use your gift to help others."
+    catechist_instructions:
+      begin:
+        - "Say: We have talked about the different gifts that God has given each of us. As you grow, what kinds of jobs can you do with your gifts? (Answers will vary) How can you offer your gifts and talents to help people in your Church and community? (Answers will vary)"
+      connect:
+        - "Read aloud the heading. Have a volunteer read aloud the first paragraph. Give children a few minutes to think about how their talents translate into service."
+        - "Activity: Read aloud We Offer God Our Gifts and Talents. Make sure children understand the directions. Remind children they can find the answers in the previous pages of the session. When all children have finished, check the answers together."
+        - "Invite children to share their answers to the last sentence."
+      close:
+        - "Say: Let us ask God to guide us in using our gifts and talents to help those around us. Give children a moment to pray. Conclude by praying aloud the Sign of the Cross."
+      prayer: "Say: Let's pray and thank Jesus for helping us use our gifts to serve others. Join me in praying aloud. Ask children to thank God the Father silently for the gifts he has given his people. Conclude by praying Amen."
+    if_time_allows:
+      - activity: "Interactive Session Review"
+        description: "Access an Interactive Session Review via QR code."
+      - activity: "Symbols of Service"
+        description: "Have each child draw and cut out from construction paper a symbol of a way to serve. For example, a hammer could represent building houses for people without housing. Using multicolored index cards, have each child write a short explanation of how his or her symbol represents service. Add children's work to a bulletin board or poster entitled 'Serving God and His Creation.'"
+    inclusion:
+      autism_spectrum: "As an aid to completing the activity on page 161, use social stories to help children think about their abilities and interests. Social stories are stories that have been authored according to specific criteria for children with autism. Examples are available online, and compilations are available in print."
+
+at_home:
+  page: 162
+  title: "With My Family"
+  catechist_close:
+    instruction: "Invite children to share this tear-out page with their families."
+    closing_statement: "God loves us and wants us to help one another. Remember to use your gifts to serve God and help others."
+  scripture_together:
+    text: "As the time of his Death approached, Jesus called on his followers to serve God."
+    reading: "John 12:24–26"
+    discussion_questions:
+      - "What does Jesus say must happen to the grain of wheat in order for it to grow?"
+      - "Describe a time when letting go of thoughts of yourself led you to help others."
+      - "How do you as a family grow when you listen to Jesus' words and share your gifts with one another?"
+  faith_on_the_go: "Why do we feel better when we use things we do well and are learning to do to help others?"
+  family_activity:
+    title: "Our Gifts and Talents"
+    description: "Have each family member name a gift or talent another family member has. Describe how that person's gift or talent enriches your family."
+  family_prayer: "Dear God, thank you for your gifts of things we take joy in doing. Help us serve you, our family, and others with those gifts. Amen."
+
+assessment:
+  session_assessment: "Available at www.findinggod.com"
+
+plan_ahead: "Consult the catechist preparation pages to prepare for Session 20 and determine any materials you will need."

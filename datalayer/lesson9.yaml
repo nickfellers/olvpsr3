@@ -1,0 +1,268 @@
+session: 9
+title: "Jesus Dies and Rises"
+unit: 2
+unit_title: "Jesus, Our Lord and Savior"
+book_pages: "71–78"
+theme: "Through Jesus' Death, Resurrection, and Ascension, we are offered salvation."
+duration: "1 hour"
+
+sources:
+  book_scan: "rawdata/scan9and13.pdf"
+
+outcomes:
+  - "Discuss Jesus' gift of new life."
+  - "Discuss Jesus' passage from Death to Resurrection."
+  - "Describe what Saint Paul wrote about the Paschal Mystery in his letters."
+  - "Explain that we show our love for others through our actions."
+  - "Define Paschal Mystery."
+
+vocabulary:
+  paschal_mystery: "The term that describes how Jesus saved us through his life, Death, Resurrection, and Ascension."
+
+scripture:
+  - reference: "Luke 24:1–12"
+    context: "The women finding Jesus' tomb empty after his Resurrection."
+    use: "Engage — Proclaim God's Word"
+  - reference: "John 11:25–26"
+    context: "Jesus told her, 'I am the resurrection and the life; whoever believes in me, even if he dies, will live, and everyone who lives and believes in me will never die. Do you believe this?'"
+    use: "Explore — Reading God's Word sidebar (student page 72)"
+  - reference: "1 Corinthians 15:1–5"
+    context: "Paul's message received of Christ's Death, burial, and Resurrection."
+    use: "Explore — Remember My Message / Art Print 9 (student page 74)"
+  - reference: "1 Corinthians 15:3–4"
+    context: "For I handed on to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures; that he was buried; that he was raised on the third day in accordance with the scriptures."
+    use: "Catechist Preparation — 3-Minute Retreat"
+  - reference: "1 John 5:11–12"
+    context: "God gave us eternal life, and this life is in his Son. Whoever possesses the Son has life."
+    use: "Understanding Scripture background"
+  - reference: "Romans 6:3–4"
+    context: "Paul writes about Jesus' Resurrection — family Scripture reading."
+    use: "At Home — Scripture Together (page 78)"
+
+catechist_preparation:
+  three_minute_retreat:
+    scripture: "1 Corinthians 15:3–4"
+    text: "For I handed on to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures; that he was buried; that he was raised on the third day in accordance with the scriptures."
+    reflection: "Finding life through death seems like a paradox, but the apostle Paul identifies the Death and Resurrection of Jesus as an essential truth. We profess this as we pray the Apostles' Creed. The path Jesus took to lead us to salvation was through his Death, after which he was raised by the work of God the Father. Jesus the Son shares his divine life with us through the Holy Spirit. We receive grace from Jesus through the Holy Spirit, which helps us live faithful lives."
+    question: "What do I need to do so that the children and their parents may see Christ in me?"
+    prayer: "Jesus, you show me the path to eternal life. Give me the grace to share my faith and serve others."
+  tradition:
+    text: "The word paschal comes from the Greek word pascha, which means 'to pass over.' The Paschal Mystery is the single event of our salvation accomplished through Jesus Christ's Passion, Death, Resurrection, Ascension, and gift of the Holy Spirit. It is called 'paschal' because it reflects the Passover event of the Old Testament, the deliverance of the people of Israel from slavery in Egypt. Jesus Christ, the Son, passed over to God the Father in heaven and draws all people and all human history with him."
+  catholic_social_teaching:
+    themes:
+      - "Call to Family, Community, and Participation"
+    reference: "See page 43b for an explanation of this theme."
+  catechism_reference: "CCC 599–618 (Passion and Death of Jesus), CCC 638–655 and CCC 659–664 (Resurrection and Ascension)"
+  general_directory: "GDC 85 — the role of the Paschal Mystery in catechesis"
+
+prayer_in_session:
+  description: "Continue praying with children slowly and reverently, allowing time for silent reflection. In this session, children learn the section of the Apostles' Creed that states our belief in the Paschal Mystery. In the Link to Liturgy, children learn about the Memorial Acclamation at Mass when we proclaim our faith in the Paschal Mystery."
+
+before_this_session:
+  - "Bookmark your Bible to Luke 24:1–12, John 11:25–26, and 1 Corinthians 15:1–5. Place the open Bible in your Prayer Center."
+  - "Display the Finding God poster Apostles' Creed."
+  - "Read the Guide for this session, choose any additional multimedia content or If Time Allows activities, and gather listed materials."
+
+materials:
+  required:
+    - "Bible"
+    - "Device with internet access"
+    - "Art Print 9: Saint Paul the Apostle (easel)"
+    - "Art supplies"
+    - "Writing supplies"
+    - "Poster: Apostles' Creed"
+    - "Reflective music"
+  optional:
+    - "Device with QR code reader"
+    - "Scripture BLM 9"
+    - "Activity BLM 9"
+    - "Scissors, glue, poster board or construction paper"
+    - "Brown paper bags, map of the Mediterranean region, time line of the travels of Paul"
+    - "Colored tissue paper, wax paper, tape"
+    - "Scripture Prayer Service BLM 9"
+    - "Pictures of a caterpillar, a chrysalis, and a butterfly"
+    - "Assessment: Session 9 (www.findinggod.com)"
+
+steps:
+  engage:
+    page: 71
+    duration: "15 minutes"
+    title: "Jesus Dies and Rises"
+    student_page_content:
+      gods_word: "Read and listen to Luke 24:1–12."
+      summary: "The women at Jesus' tomb were the first to hear the Good News. Just as Jesus had promised, he had risen. By the power of the Holy Spirit, he was resurrected the third day after his Death. He saved us and gave us new life."
+      new_life: "Jesus died and rose again for all of us. He loves us so much that he gave us the precious gift of new life. We can thank him with everything we do. We can pray prayers of thanks. We can show Jesus' love to others and ourselves. When we are sad or scared, we can remember Jesus' gift of new life. We know that he is with us always."
+      prayer: "Jesus, our risen Lord, help me be a faithful disciple so that I can share in your new life."
+    understanding_scripture: "Many details of Jesus' Resurrection are the same in all Gospel accounts. One or more women visit Jesus' tomb only to find it empty. They receive the Good News to tell others — Christ has risen, fulfilling his promise of salvation and eternal life. Jesus' Resurrection and Ascension together form the crown of our faith. His victory over death and gift of new life are cause for celebration and gratitude. As the apostle John wrote in his first letter, 'God gave us eternal life, and this life is in his Son. Whoever possesses the Son has life.' [1 John 5:11–12]"
+    catechist_instructions:
+      open_your_heart: "Invite children to quiet themselves and prepare to hear sacred Scripture."
+      proclaim_gods_word: "Take the Bible from the Prayer Center. Read Luke 24:1–12. Then say: The Gospel of the Lord. Invite children to respond Praise to you, Lord Jesus Christ."
+      the_word_alive:
+        - "Ask volunteers to act out observing an amazing natural phenomenon."
+        - "Say: This is how Jesus' followers must have felt when they learned he had risen from the dead."
+        - "Read the paragraphs aloud."
+        - "Say: Jesus' Death, Resurrection, and Ascension are the most important beliefs in our Catholic faith."
+      prayer: "Say: Let's pray to Jesus to help us live as he did, then share our own thoughts with Jesus. Ask children to pray silently as you pray aloud the prayer. Pause. Then pray together Amen."
+    if_time_allows:
+      - activity: "Scripture BLM: Luke 24:1–12"
+        description: "Have children complete Scripture BLM 9 to gain a better understanding of the passage."
+
+  explore:
+    pages: "72–74"
+    duration: "20 minutes"
+    title: "We Proclaim Jesus' Death, Resurrection, and Ascension"
+    student_page_content:
+      we_proclaim:
+        text: "At the moment Jesus died on the cross, the gates of heaven opened for all the just people who had died before him. Two days later, Jesus was raised from the dead and appeared to Peter and the Apostles. After 40 days, he ascended into heaven. We call Jesus' passage from Death to Resurrection to Ascension the Paschal Mystery."
+        continued: "Because Jesus Christ is the Son of God, we call him Lord. Jesus Christ shares his life with us by sending the Holy Spirit to us. From the Holy Spirit, we receive the grace to be faithful to God and serve others. Jesus is with us today and awaits us at the end of life."
+      reading_gods_word:
+        text: "Jesus told her, 'I am the resurrection and the life; whoever believes in me, even if he dies, will live, and everyone who lives and believes in me will never die. Do you believe this?'"
+        reference: "John 11:25–26"
+      we_believe_in_the_paschal_mystery:
+        apostles_creed_excerpt: "[He] suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead."
+        link_to_liturgy: "At Mass we pray 'We proclaim your Death, O Lord, and profess your Resurrection until you come again.'"
+      remember_my_message:
+        intro: "Saint Paul wrote a letter to his friends in Corinth. He was worried that they had forgotten what he had told them about Jesus' Death and Resurrection. This is what Paul wrote, so that the people in Corinth would believe and be saved."
+        scripture_passage: "I am reminding you, brothers, of the gospel I preached to you: that Christ died for our sins in accordance with the scriptures; that he was buried; that he was raised on the third day in accordance with the scriptures. That he appeared to [Peter], then to the Twelve. — 1 Corinthians 15:1–5"
+        summary: "God the Father came as Jesus the Son to teach his people how to follow him. Jesus the Son died to show how much God the Father loves us."
+      activity_what_would_you_say:
+        description: "Imagine you were Saint Paul. What would you want the people in Corinth to know about Jesus? Write one idea on the lines."
+        sample_answers: "Answers could include that Jesus helped people; that he taught love and offered forgiveness; that he died and rose to life again, bringing salvation."
+    catechist_instructions:
+      begin:
+        - "Invite children to share stories of when they have spread good news, such as the birth of a new sibling."
+        - "Then read aloud the heading. Ask: What does proclaim mean? (announce publicly)"
+      connect:
+        - "Read aloud the first paragraph. Ask: Why would we proclaim this news? (It is exciting that Jesus died and rose from the dead. He did it for love of us.)"
+        - "Write Paschal [PAS kuhl] Mystery on the board. Have children look up the term in the Glossary."
+        - "Say: The term Paschal Mystery describes how Jesus saved us through his life, Death, Resurrection, and Ascension."
+        - "Say: Every time we pray the Apostles' Creed, we proclaim our belief in the Paschal Mystery. Remind children that they can find the Apostles' Creed on page 250."
+        - "Read aloud the second paragraph and ask: How does Jesus share his life with us? (He sends us the Holy Spirit.) What do we receive from the Holy Spirit? (the grace to be faithful to God and serve others)"
+      we_believe:
+        - "Point to the picture on page 73. Say: This is a picture of the risen Jesus and illustrates part of the Paschal Mystery. How do you know this is Jesus? (There is a golden halo behind his head.) Jesus is holding an Easter lily. What is it a symbol of? (new life, Easter, the Resurrection)"
+        - "Ask a volunteer to read aloud the heading and the first paragraph. Display the Finding God poster Apostles' Creed."
+        - "Say: Now we will learn more of the Apostles' Creed. Before reading the new part, explain that Pontius Pilate was the Roman governor of Judea who ordered that Jesus be crucified."
+        - "Pray together the next part of the Creed. Say: Each sentence states part of the Paschal Mystery. We proclaim our belief in the Paschal Mystery when we pray the Apostles' Creed."
+        - "Suggest that children practice this part of the Apostles' Creed at home so that they can learn the whole prayer by the end of the year."
+      link_to_liturgy: "Read aloud the feature. Say: This summarizes the Paschal Mystery."
+      close:
+        - "Use the following page and the Art Print easel to teach Art Print 9: Saint Paul the Apostle."
+      art_print:
+        begin:
+          - "Display the Art Print easel open to Art Print 9. Briefly introduce and discuss the artwork using information from About the Artist and Art+facts."
+          - "Say: Describe what you see in this painting. (Saint Paul is wearing a red robe; he is barefoot; he is holding a book and a sword.)"
+          - "Say: Saint Paul died doing the work of the Church. The sword Saint Paul is holding symbolizes his death."
+        connect:
+          - "Read aloud the introduction and discuss the question."
+          - "Invite a volunteer to read aloud the first paragraph of Remember My Message. Explain that Corinth is a Greek city across the sea from Jerusalem."
+          - "Say: Paul wrote this letter to remind his friends in Corinth of Jesus' Death, Resurrection, and Ascension."
+          - "Invite a volunteer to read aloud the letter. Ask: What is Paul's message? (Christ died for our sins and two days later rose from the dead. If we believe this, we will be saved.)"
+          - "Read aloud the paragraph below Paul's letter. Ask: Why did Jesus die? (because he loved us and wanted us to know and love God)"
+        activity: "Invite a volunteer to read aloud the directions. Give children time to complete the activity. Invite volunteers to share their ideas."
+        close: "Invite children to reflect on the artwork and to pray a silent prayer asking God to guide them in spreading his message."
+    if_time_allows:
+      - activity: "Activity BLM: Paschal Mystery"
+        description: "Have children complete Activity BLM 9 to unscramble words about the Paschal Mystery."
+      - activity: "Paschal Mystery Time Line"
+        description: "Have children make time lines of the Paschal Mystery. Have them draw a straight, thick colored line with marker on a sheet of white paper in landscape format. Then have them use different-colored markers to make three dots on the time line for Jesus' Death, Resurrection, and Ascension. Encourage them to pay attention to the amount of time that passed between each two events in placing their dots. Above or below the dots, have children draw a cross, an empty tomb, and two images of a risen Jesus — one for the Resurrection, the other for the Ascension."
+      - activity: "Service: Proclaim the Paschal Mystery"
+        description: "Give small groups poster board and markers. Have each group design a poster that shows symbols of Jesus' Death, Resurrection, and Ascension. Ask children to write the title The Paschal Mystery at the top. Obtain permission to tape the posters around the building. In this way, children share what they have learned about the Paschal Mystery with the parish community."
+        catholic_social_teaching_link: "Family and Community"
+      - activity: "Art Studio: Maps of Paul's Travels"
+        description: "Provide children with brown paper bags. Invite children to draw maps showing Paul's travels. Provide a map and give children time to review other maps online for reference. When children have finished with their drawings, have them crumple the bags to give an ancient look to the maps."
+    ideas_to_share:
+      topic: "Liturgy"
+      quote: "At Mass we pray 'We proclaim your Death, O Lord, and profess your Resurrection until you come again.' This summarizes the Paschal Mystery."
+
+  reflect:
+    pages: "75–76"
+    duration: "15 minutes"
+    title: "Our Faith Prayer"
+    student_page_content:
+      our_faith_prayer:
+        text: "You have learned more of our faith prayer, the Apostles' Creed. Pray those words now. Pause after each phrase to tell Jesus what the words mean to you. Now pray the prayer below."
+        prayer_from_apostles_creed: "[He] suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead."
+      our_new_life_in_jesus:
+        story: "Liliana and Rosa peeked excitedly into their butterfly box. They had seen the eggs hatch into caterpillars. The caterpillars ate so many leaves that they outgrew their skins several times. Then each caterpillar spun a silky chrysalis around itself and rested. Two weeks later, the girls wondered if this would be the day the former caterpillars would fly away and start their new lives as butterflies. Liliana told Rosa that she learned in church that the butterfly is a symbol of Jesus' Resurrection. Coming out of its chrysalis, the butterfly reminds us of the risen Jesus."
+      activity_symbol_of_our_new_life:
+        description: "Color this butterfly that is ready to fly off to a new life."
+    catechist_instructions:
+      prayer:
+        prepare: "Pray the prayer on page 75 in advance to become familiar with it. Display the Finding God poster Apostles' Creed."
+        instructions:
+          - "Say: Today we have learned more of the Apostles' Creed. Can anyone remember the first part of the Creed? Ask volunteers to pray the first part of the Creed. If they cannot remember it, point to the poster and read it together."
+          - "Say: Now we are going to spend time with Jesus and pray this new section of the Apostles' Creed."
+          - "Have children find the word crucified. Say: When Jesus was crucified, he died while nailed to a cross. The Cross is a symbol of the Paschal Mystery, which we remember as we pray the Apostles' Creed."
+          - "Move to the Prayer Center with children. Have them bring their books. Invite them to be quiet for prayer. Read aloud the heading and the paragraph above the prayer. Play reflective music as you read aloud this part of the Apostles' Creed. Have children look at their books and pray with you. Remind children to pause after each statement."
+          - "When you have finished, pray together Amen."
+          - "Say: We told Jesus that we believe. Now let's learn about a symbol of the Resurrection."
+      our_new_life:
+        begin:
+          - "Ask if anyone knows what a butterfly box is. If not, explain that it is a cardboard box with plastic windows and leaves inside for caterpillars to eat."
+          - "Say: A butterfly box is a place for the caterpillar to live as it waits to become a beautiful butterfly."
+        connect:
+          - "Ask a volunteer to read aloud the heading and the first paragraph. Ask: What does the caterpillar make for itself? (a chrysalis)"
+          - "Ask a volunteer to read aloud the second paragraph. Say: The caterpillar and the butterfly are the same being; it has simply changed form. Guide the discussion so that children understand the transformation."
+          - "Read aloud the last paragraph. Say: After waiting in its chrysalis, the butterfly rises up to a new life, just as Jesus did on Easter. When we see a butterfly, it reminds us of Jesus' new life after he rose from the dead. The butterfly is a symbol of Jesus' Resurrection."
+        activity: "Read aloud the directions. Distribute crayons. Give children time to color their butterflies. When children finish coloring, invite them to share their pictures."
+        close: "Say: The caterpillar rising out of the box as a butterfly reminds us of the joy of the Resurrection. Remind children that the Cross is another symbol of Jesus' Death and Resurrection."
+    if_time_allows:
+      - activity: "Scripture Prayer Service BLM: Luke 24:1–12"
+        description: "For an optional Prayer Service focused on this session's opening Scripture passage, refer to Scripture Prayer Service BLM 9."
+      - activity: "Apostles' Creed Stained-Glass Window"
+        description: "Have children use colored tissue paper and wax paper to create a stained-glass window to illustrate a line of their choice from the Apostles' Creed. Tape all the children's work on a window in the order of the lines as they appear in the prayer. Encourage children to use the class's pictures to help them memorize the Apostles' Creed in its entirety."
+    coaching_children_to_pray: "Remind children that when we pray the Apostles' Creed, we affirm the basic truths of our faith and reflect on our beliefs."
+
+  respond:
+    page: 77
+    duration: "10 minutes"
+    title: "Living My Faith"
+    student_page_content:
+      faith_summary: "Jesus suffered and died for us. By the power of the Holy Spirit, he rose from the dead. Through his Death and Resurrection, we are saved."
+      words_i_learned:
+        - "Paschal Mystery"
+      ways_of_being_like_jesus: "Before Jesus died, he asked the Father to forgive his enemies. Forgive others when they act unjustly toward you."
+      activity_letter_to_jesus:
+        description: "Write a letter to Jesus, praising and thanking him for saving us through his Death and Resurrection. Include details you learned in this session. Show him you understand his great gift to us."
+        format: "Dear Jesus, [lines for writing] Love, [student name]"
+      prayer: "Jesus, Lord, thank you for giving your life to save me. Help me live my life to help others."
+    catechist_instructions:
+      begin:
+        - "Faith Summary: Have a volunteer read aloud the paragraph."
+        - "Ask: How are we saved? (through Jesus' Death and Resurrection)"
+      connect:
+        - "Words I Learned: Call on a volunteer to tell you what Paschal Mystery means. Have children look up the definition in the Glossary if necessary."
+        - "Say: Jesus died and rose from the dead. In this way, he saved us from our sins."
+        - "Ways of Being Like Jesus: Ask a volunteer to read aloud the paragraph. Give children a few moments to think about someone they could forgive."
+        - "Say: Jesus finds it easy to forgive us because he loves us so much. If he can do this great thing for us, we too can forgive others."
+      activity: "Read aloud the directions. Give children time to write their letters of praise and thanks to Jesus."
+      prayer: "Say: It is time to pray and thank Jesus for all the wonderful things he does for us. Pray aloud the prayer. Invite children to take a few moments to thank Jesus for something he has done for us. Pause for a moment. Then pray Amen."
+    if_time_allows:
+      - activity: "Interactive Session Review"
+        description: "Access an Interactive Session Review via QR code."
+    inclusion:
+      cognitive: "To help a child begin his or her letter to Jesus, ask if they have ever been in trouble and had someone come to help them. Write down what the child says and read it back. Then ask them to tell you how Jesus has helped them. Help the child write what they have said, beginning with 'You helped me when I _______.'"
+
+at_home:
+  page: 78
+  title: "With My Family"
+  catechist_close:
+    instruction: "Invite children to share this tear-out page with their families."
+    closing_statement: "As we move through this week, let's put the needs of others before our own, just as Jesus did."
+  scripture_together:
+    text: "God the Father loved us so much that he gave us his only Son, Jesus. Through Jesus' Death, Resurrection, and Ascension, we are saved."
+    reading: "Romans 6:3–4"
+    discussion_questions:
+      - "How does Paul say a person can have 'the newness of life'?"
+      - "What can you do to be part of Christ's Resurrection?"
+      - "How can you be close to Jesus today?"
+  faith_on_the_go: "What do you think life was like for people who decided to follow Jesus after they heard the news of his Death, Resurrection, and Ascension? Why?"
+  family_activity:
+    title: "The Newness of Life"
+    description: "Call or visit a relative or friend who is homebound. Share with that person a story or something you have made that conveys what 'the newness of life' means to you."
+  family_prayer: "Dear God, thank you for the gift of your Son, Jesus Christ. Help us remember that Jesus suffered and died for us. Amen."
+
+assessment:
+  session_assessment: "Available at www.findinggod.com"
+
+plan_ahead: "Consult the catechist preparation pages to prepare for Session 10 and determine any materials you will need."
