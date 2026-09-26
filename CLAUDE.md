@@ -10,35 +10,48 @@ As of **September 26, 2026**, Nick is starting his **second year** teaching this
 
 **Default workflow for any Year 2 session:** check the reuse map below first. If Year 1 material exists, start from it and refine (what worked, what to cut, what to add) rather than rebuilding. Only build from the raw planner/book when the "Year 1 material" column is empty. After each class, log it in the Year 2 Teaching Log.
 
-Full syllabus transcription (logistics, pageant, reconciliation, standing instructions): `datalayer/syllabus_2026_2027.md`. Photos: `datalayer/rawdata/syllabus_2026-2027_p*.jpg`.
+Full syllabus transcription (logistics, pageant, reconciliation, standing instructions): `datalayer/syllabus_2026_2027.md`. Photos: `datalayer/rawdata/syllabus_2026-2027_p*.jpg` (last year's page 2: `syllabus_2025-2026_p2.jpg`).
+
+### Teaching team + coordination sheet
+
+Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2nd** (`x` = out): **Nick, Robb, Cristina, Chad** (Anna also helped once in Y1). Nick doesn't lead every week, so lesson plans only exist for weeks someone built one.
+
+- **Sheet:** "3B Class OLV" — https://docs.google.com/spreadsheets/d/1sbOQAI7tY-i0UKdQv9xlk2q_BTP3njWg/edit (owned by nfellers@gmail.com; anyone with the link can edit).
+- **Tabs:** `2026-27` (first tab; Date | Event | Third Grade Syllabus | Nick | Robb | Cristina | Chad | Last year (2025-26)) and `2025-26` (Y1, as-was). Lead/2nd columns for 2026-27 are blank for the team to fill in. No-class rows are gray.
+- **It's an .xlsx in Drive, not a native Sheet**, so the Sheets API can't edit it. To change it: `gws drive files get ... alt=media` → edit with openpyxl → `gws drive files update --upload` (check `modifiedTime` first so you don't clobber a teammate's edit). Snapshot: `datalayer/rawdata/3B_Class_OLV_coordination_sheet.xlsx`.
+- Y1 lesson plans were linked from the sheet as Google Docs (now in the `Last year` column for 2026-27): Session 1 → `session1_lesson_plan.md`, Sessions 2/3 → `session2_3_lesson_plan.md`, Sessions 4/5 → `session4_5_lesson_plan.md` (repo copies are identical to the Docs).
 
 ### Year 2 schedule → Year 1 reuse map
 
-| Date | Year 2 content (per coordinator syllabus) | Year 1 material to reuse |
-|------|-------------------------------------------|--------------------------|
-| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | **None built** — raw planner only (`rawdata/..._Session_1_GP.docx`) |
-| Oct 4 | Session 2 Created to Be Together | `session2_3_lesson_plan.md` (taught 2+3 together in Y1) + Trinity coloring |
-| Oct 11 | Session 3 God is our Father | `session2_3_lesson_plan.md` |
-| Oct 25 | Sessions 4 + 5 (Jesus is with Us, Ordinary Time) | `session4_5_lesson_plan.md` — same pairing as Y1 + Joseph coloring |
-| Nov 1 | All Saints / All Souls pp. 237-240 | None |
-| Nov 8 | Session 10 Celebrating Advent | Raw planner + `rawdata/session10quiz.pdf` only |
-| Nov 15 | Session 14 Mary is Holy | None |
-| Nov 22 | Session 15 Celebrating Christmas | None |
-| Dec 6 | Christmas Play | — |
-| Jan 10 | Baptism of the Lord + Session 16 Sacraments of Initiation + chalk blessing | Raw Unit 4 planner/worksheets only (`lesson16.yaml` is empty) |
-| Jan 24 | Session 18 Celebrating Jesus + Celebrating the Lord's Day pp. 254-259 | Raw Unit 4 planner only |
-| Jan 31 | Session 17 Reconciliation + Session 22 Making Good Choices | Raw Unit 4 planner (17) only |
-| Feb 7 | Reconciliation in church + The Bible and You | None |
-| Feb 21 | Session 20 Lent and Holy Week + Lent pp. 221-224 | `lesson20.yaml`, `lesson20_session_prompt.md`, `rawdata/lesson20bookscan.pdf` (built Feb 2026; not in Y1 teaching log) |
-| Feb 28 | Session 8 + Session 23 | `session8_23_lesson_plan.md` — same pairing as Y1 + workbook scans |
-| Mar 14 | Session 25 Easter + Last Supper pages + Session 9 | `lesson25.yaml`, `session25_easter_jeopardy.md`; `lesson9.yaml`, `session9_13_lesson_plan.md`, `session9_13_jeopardy.md` |
-| Apr 11 | All Life is Sacred pp. 197-204 (Session 24) | Raw planner only (`..._Session_24.docx`) |
-| Apr 18 | Holy Spirit + Pentecost pp. 233-236 | `session_11_data_layer.md` — ⚠️ syllabus says "Session 12, pp. 97-104"; Y1 book data says Session 11, pp. 89-96. Verify. |
-| Apr 25 | Last day / fun / food drive | `final_year_review_jeopardy.md` |
+"Y1" = when it was taught in 2025-26 and Nick's role, per the 2025-26 sheet tab.
+
+| Date | Year 2 content (per coordinator syllabus) | Y1 | Year 1 material to reuse |
+|------|-------------------------------------------|----|--------------------------|
+| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | 9/21/25, Nick lead | `session1_lesson_plan.md` (first-day intros, rules, name tags, Ignatian examen, "Finding God Everywhere" game) |
+| Oct 4 | Session 2 Created to Be Together | 9/28/25 (with 3), Nick lead | `session2_3_lesson_plan.md` + Trinity coloring |
+| Oct 11 | Session 3 God is our Father | 9/28/25 (with 2), Nick lead | `session2_3_lesson_plan.md` |
+| Oct 25 | Sessions 4 + 5 (Jesus is with Us, Ordinary Time) | 10/5/25, Nick lead | `session4_5_lesson_plan.md` — same pairing + Joseph coloring |
+| Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | None |
+| Nov 8 | Session 10 Celebrating Advent | 11/9/25, Nick lead | No plan saved — raw planner + `rawdata/session10quiz.pdf` |
+| Nov 15 | Session 14 Mary is Holy | 11/2/25, Nick lead | No plan saved |
+| Nov 22 | Session 15 Celebrating Christmas | 11/16/25, Cristina lead | None |
+| Dec 6 | Christmas Play | 12/7/25, all | — |
+| Jan 10 | Baptism of the Lord + Session 16 Sacraments of Initiation + chalk blessing | 1/11/26, Nick lead | No plan saved — raw Unit 4 planner (`lesson16.yaml` is empty) |
+| Jan 24 | Session 18 Celebrating Jesus + Celebrating the Lord's Day pp. 254-259 | 4/12/26, Cristina lead | Raw Unit 4 planner only |
+| Jan 31 | Session 17 Reconciliation + Session 22 Making Good Choices | New this year | Raw Unit 4 planner (17) only |
+| Feb 7 | Reconciliation in church + The Bible and You | 10/12/25 (+ scripture pp. 242-243), Nick lead | No plan saved |
+| Feb 21 | Session 20 Lent and Holy Week + Lent pp. 221-224 | 2/8/26, Nick lead + Anna | `lesson20.yaml`, `lesson20_session_prompt.md`, `rawdata/lesson20bookscan.pdf` |
+| Feb 28 | Session 8 + Session 23 | 1/25/26 | `session8_23_lesson_plan.md` — same pairing + workbook scans |
+| Mar 14 | Session 25 Easter + Last Supper pages + Session 9 | 25: 3/8/26 Nick lead; 9: 2/22/26 Nick lead | `lesson25.yaml`, `session25_easter_jeopardy.md`; `lesson9.yaml`, `session9_13_lesson_plan.md`, `session9_13_jeopardy.md` |
+| Apr 11 | All Life is Sacred pp. 197-204 (Session 24) | 2/1/26, Nick lead | No plan saved — raw planner (`..._Session_24.docx`) |
+| Apr 18 | Holy Spirit + Pentecost pp. 233-236 | 4/19/26 | `session_11_data_layer.md` — ⚠️ this year's syllabus says "Session 12, pp. 97-104"; last year's syllabus and the book say **Session 11, pp. 89-96**. Probably a typo; confirm with coordinator. |
+| Apr 25 | Last day / fun / food drive | 4/26/26, all | `final_year_review_jeopardy.md` |
 
 No class: Oct 18, Nov 29, Dec 13–Jan 3, Jan 17, Feb 14, Mar 7, Mar 21–Apr 4.
 
-**Year 1 material not on this year's syllabus** (available if a slot opens): Session 13 The Church Prays (`lesson13.yaml`), Session 19 Christian Living (`lesson19.yaml`), Stations of the Cross (`stations_of_the_cross.yaml`, `stations_session19_*`), Carlo Acutis coloring.
+**"No plan saved"** = Nick led it in Y1 but no plan is in this repo. It may exist as a Google Doc in nfellers@gmail.com's Drive. Check there before rebuilding.
+
+**Year 1 material not on this year's syllabus** (available if a slot opens): Session 13 The Church Prays (`lesson13.yaml`), Session 19 Christian Living (`lesson19.yaml`), Stations of the Cross (`stations_of_the_cross.yaml`, `stations_session19_*`), Session 7 Following Jesus, Advent pp. 216-220 prayer service (Y1 11/23/25, Nick lead), Carlo Acutis coloring.
 
 ### Year 2 Teaching Log (2026-2027)
 
@@ -100,16 +113,20 @@ Cleaned lesson files follow the pattern `lesson{N}.yaml`. Structure should captu
 
 ## Year 1 Teaching History (2025-2026)
 
-| Date | Sessions | Lesson Plan File |
-|------|----------|------------------|
-| September 28, 2025 | Session 2: Created to Be Together + Session 3: God is our Father | `datalayer/session2_3_lesson_plan.md` |
-| October 5, 2025 | Session 4: Jesus is with us + Session 5: Ordinary Time | `datalayer/session4_5_lesson_plan.md` |
-| January 25, 2026 | Session 8: Jesus Gathers Disciples + Session 23: Fear Not | `datalayer/session8_23_lesson_plan.md` |
-| February 22, 2026 | Session 9: Jesus Dies and Rises + Session 13: The Church Prays | `datalayer/session9_13_lesson_plan.md` |
-| March 8, 2026 | Stations of the Cross + Session 19: Christian Living | `datalayer/stations_session19_lesson_plan.md` |
-| ~March 2026 (date not recorded) | Session 25: Celebrating Easter (Jeopardy) | `datalayer/lesson25.yaml`, `datalayer/session25_easter_jeopardy.md` |
-| ~April 19, 2026 (inferred from file date) | Session 11: Jesus Sends the Holy Spirit + Pentecost | `datalayer/session_11_data_layer.md` |
-| ~April 26, 2026 (inferred from file date) | Last class: year-end review Jeopardy | `datalayer/final_year_review_jeopardy.md` |
+Full calendar with every teacher's role is in the `2025-26` tab of the coordination sheet. The table below lists the weeks that have saved material.
+
+| Date | Sessions | Nick (per sheet) | Lesson Plan File |
+|------|----------|------------------|------------------|
+| September 21, 2025 | Unit 1 Opener + Session 1 | Lead | `datalayer/session1_lesson_plan.md` |
+| September 28, 2025 | Session 2: Created to Be Together + Session 3: God is our Father | Lead | `datalayer/session2_3_lesson_plan.md` |
+| October 5, 2025 | Session 4: Jesus is with us + Session 5: Ordinary Time | Lead | `datalayer/session4_5_lesson_plan.md` |
+| January 25, 2026 | Session 8: Jesus Gathers Disciples + Session 23: Fear Not | x (sheet) — but plan file says taught 1/25 | `datalayer/session8_23_lesson_plan.md` |
+| February 8, 2026 | Session 20: Celebrating Lent and Holy Week | Lead + Anna | `datalayer/lesson20.yaml`, `datalayer/lesson20_session_prompt.md` |
+| February 22, 2026 | Session 9: Jesus Dies and Rises + Session 13: The Church Prays | Lead | `datalayer/session9_13_lesson_plan.md` |
+| March 8, 2026 | Stations of the Cross + Session 19: Christian Living | Sheet puts this on 3/1 (Cristina lead); plan file says 3/8 | `datalayer/stations_session19_lesson_plan.md` |
+| March 8, 2026 | Session 25: Celebrating Easter (Jeopardy) | Lead | `datalayer/lesson25.yaml`, `datalayer/session25_easter_jeopardy.md` |
+| April 19, 2026 | Session 11: Jesus Sends the Holy Spirit + Pentecost | not recorded | `datalayer/session_11_data_layer.md` |
+| April 26, 2026 | Last class: year-end review Jeopardy | all | `datalayer/final_year_review_jeopardy.md` |
 
 ### Activity Resources
 
