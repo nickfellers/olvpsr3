@@ -19,6 +19,8 @@ Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2
 - **Sheet:** "3B Class OLV" — https://docs.google.com/spreadsheets/d/1sbOQAI7tY-i0UKdQv9xlk2q_BTP3njWg/edit (owned by nfellers@gmail.com; anyone with the link can edit).
 - **Tabs:** `2026-27` (first tab; Date | Event | Third Grade Syllabus | Nick | Robb | Cristina | Chad | Last year (2025-26)) and `2025-26` (Y1, as-was). Lead/2nd columns for 2026-27 are blank for the team to fill in. No-class rows are gray.
 - **It's an .xlsx in Drive, not a native Sheet**, so the Sheets API can't edit it. To change it: `gws drive files get ... alt=media` → edit with openpyxl → `gws drive files update --upload` (check `modifiedTime` first so you don't clobber a teammate's edit). Snapshot: `datalayer/rawdata/3B_Class_OLV_coordination_sheet.xlsx`.
+- The `2025-26` tab has a **Coloring sheet** column (H) linking each Y1 coloring page in Drive (only cells with a real link are blue).
+- **Personal Drive folder "3rdgradeOLV"** (owned by nfellers@gmail.com, shared with nfellers@forimpact.org as Editor, so gws can read and write it): folder id `1cljhGFbq5ETIaNIxb8WjhUysasI4rG89`. It holds the `Coloring Sheets` subfolder (`1iLiMOABDDUxsznkQZqiLf5fGH2cGD5Fj`), the "Session 16" and "Session 20" note Docs, and the Session 16 planner PDF. Files uploaded by gws are owned by the work account.
 - **Lesson-plan links live in the Syllabus column (C):** a lesson with a Google Doc plan gets a real hyperlink (blue/underlined). Every other cell stays plain black text; never apply link styling without a link. Y1 Docs, carried into 2026-27: Session 1 → `session1_lesson_plan.md`, Sessions 2 and 3 → `session2_3_lesson_plan.md`, Sessions 4/5 → `session4_5_lesson_plan.md` (repo copies are identical to the Docs). When a new plan Doc is made, link it the same way.
 
 ### Year 2 schedule → Year 1 reuse map
@@ -27,24 +29,24 @@ Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2
 
 | Date | Year 2 content (per coordinator syllabus) | Y1 | Year 1 material to reuse |
 |------|-------------------------------------------|----|--------------------------|
-| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | 9/21/25, Nick lead | `session1_lesson_plan.md` (first-day intros, rules, name tags, Ignatian examen, "Finding God Everywhere" game) |
+| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | 9/21/25, Nick lead | `session1_lesson_plan.md` (first-day intros, rules, name tags, Ignatian examen, "Finding God Everywhere" game) + St. Ignatius coloring |
 | Oct 4 | Session 2 Created to Be Together | 9/28/25 (with 3), Nick lead | `session2_3_lesson_plan.md` + Trinity coloring |
 | Oct 11 | Session 3 God is our Father | 9/28/25 (with 2), Nick lead | `session2_3_lesson_plan.md` |
 | Oct 25 | Sessions 4 + 5 (Jesus is with Us, Ordinary Time) | 10/5/25, Nick lead | `session4_5_lesson_plan.md` — same pairing + Joseph coloring |
 | Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | None |
 | Nov 8 | Session 10 Celebrating Advent | 11/9/25, Nick lead | No plan saved — raw planner + `rawdata/session10quiz.pdf` |
-| Nov 15 | Session 14 Mary is Holy | 11/2/25, Nick lead | No plan saved |
+| Nov 15 | Session 14 Mary is Holy | 11/2/25, Nick lead | No plan saved; Miraculous Medal coloring |
 | Nov 22 | Session 15 Celebrating Christmas | 11/16/25, Cristina lead | None |
 | Dec 6 | Christmas Play | 12/7/25, all | — |
-| Jan 10 | Baptism of the Lord + Session 16 Sacraments of Initiation + chalk blessing | 1/11/26, Nick lead | No plan saved — raw Unit 4 planner (`lesson16.yaml` is empty) |
+| Jan 10 | Baptism of the Lord + Session 16 Sacraments of Initiation + chalk blessing | 1/11/26, Nick lead | `session16_notes.md` (fragmentary notes only) + Gifts of the Holy Spirit toolbox coloring; raw Unit 4 planner (`lesson16.yaml` is empty) |
 | Jan 24 | Session 18 Celebrating Jesus + Celebrating the Lord's Day pp. 254-259 | 4/12/26, Cristina lead | Raw Unit 4 planner only |
 | Jan 31 | Session 17 Reconciliation + Session 22 Making Good Choices | New this year | Raw Unit 4 planner (17) only |
 | Feb 7 | Reconciliation in church + The Bible and You | 10/12/25 (+ scripture pp. 242-243), Nick lead | No plan saved |
-| Feb 21 | Session 20 Lent and Holy Week + Lent pp. 221-224 | 2/8/26, Nick lead + Anna | `lesson20.yaml`, `lesson20_session_prompt.md`, `rawdata/lesson20bookscan.pdf` |
+| Feb 21 | Session 20 Lent and Holy Week + Lent pp. 221-224 | 2/8/26, Nick lead + Anna | `lesson20.yaml`, `lesson20_session_prompt.md`, `session20_notes.md`, `rawdata/lesson20bookscan.pdf` + Woman at the Well coloring |
 | Feb 28 | Session 8 + Session 23 | 1/25/26 | `session8_23_lesson_plan.md` — same pairing + workbook scans |
-| Mar 14 | Session 25 Easter + Last Supper pages + Session 9 | 25: 3/8/26 Nick lead; 9: 2/22/26 Nick lead | `lesson25.yaml`, `session25_easter_jeopardy.md`; `lesson9.yaml`, `session9_13_lesson_plan.md`, `session9_13_jeopardy.md` |
+| Mar 14 | Session 25 Easter + Last Supper pages + Session 9 | 25: 3/8/26 Nick lead; 9: 2/22/26 Nick lead | `lesson25.yaml`, `session25_easter_jeopardy.md`; `lesson9.yaml`, `session9_13_lesson_plan.md`, `session9_13_jeopardy.md` + Alleluia coloring (2) |
 | Apr 11 | All Life is Sacred pp. 197-204 (Session 24) | 2/1/26, Nick lead | No plan saved — raw planner (`..._Session_24.docx`) |
-| Apr 18 | Holy Spirit + Pentecost pp. 233-236 | 4/19/26 | `session_11_data_layer.md` — ⚠️ this year's syllabus says "Session 12, pp. 97-104"; last year's syllabus and the book say **Session 11, pp. 89-96**. Probably a typo; confirm with coordinator. |
+| Apr 18 | Holy Spirit + Pentecost pp. 233-236 | 4/19/26 | `session_11_data_layer.md` — ⚠️ this year's syllabus says "Session 12, pp. 97-104"; last year's syllabus and the book say **Session 11, pp. 89-96**. Probably a typo; confirm with coordinator. Holy Spirit dove + Gifts toolbox coloring |
 | Apr 25 | Last day / fun / food drive | 4/26/26, all | `final_year_review_jeopardy.md` |
 
 No class: Oct 18, Nov 29, Dec 13–Jan 3, Jan 17, Feb 14, Mar 7, Mar 21–Apr 4.
@@ -123,7 +125,7 @@ Full calendar with every teacher's role is in the `2025-26` tab of the coordinat
 | January 25, 2026 | Session 8: Jesus Gathers Disciples + Session 23: Fear Not | x (sheet) — but plan file says taught 1/25 | `datalayer/session8_23_lesson_plan.md` |
 | February 8, 2026 | Session 20: Celebrating Lent and Holy Week | Lead + Anna | `datalayer/lesson20.yaml`, `datalayer/lesson20_session_prompt.md` |
 | February 22, 2026 | Session 9: Jesus Dies and Rises + Session 13: The Church Prays | Lead | `datalayer/session9_13_lesson_plan.md` |
-| March 8, 2026 | Stations of the Cross + Session 19: Christian Living | Sheet puts this on 3/1 (Cristina lead); plan file says 3/8 | `datalayer/stations_session19_lesson_plan.md` |
+| March 8, 2026 | Stations of the Cross + Session 19: Christian Living | Sheet puts this on 3/1 (Cristina lead), and the Stations coloring page was downloaded the morning of 3/1; plan file says 3/8 | `datalayer/stations_session19_lesson_plan.md` |
 | March 8, 2026 | Session 25: Celebrating Easter (Jeopardy) | Lead | `datalayer/lesson25.yaml`, `datalayer/session25_easter_jeopardy.md` |
 | April 19, 2026 | Session 11: Jesus Sends the Holy Spirit + Pentecost | not recorded | `datalayer/session_11_data_layer.md` |
 | April 26, 2026 | Last class: year-end review Jeopardy | all | `datalayer/final_year_review_jeopardy.md` |
@@ -135,6 +137,8 @@ Full calendar with every teacher's role is in the `2025-26` tab of the coordinat
 | Session 2/3 | Holy Trinity stained glass coloring | [Canva](https://www.canva.com/design/DAG0FaFqfTs/mgzT2OMhQVnHqoTdgohNJg/view) |
 | Session 4/5 | Joseph Trusted God coloring | [Canva](https://www.canva.com/design/DAG02T0vyFU/zwUV1aWsC81hJAd5XhKpYA/view) |
 | Session 13 | Saint Carlo Acutis coloring sheet | [Gemini](https://gemini.google.com/app/39451c73f7e275ca) |
+
+**Full Y1 coloring-sheet inventory:** `datalayer/coloring_sheets.md` lists 13 files covering 10 of 20 class Sundays, with Drive links and gaps. Local copies are in `datalayer/rawdata/coloring/`.
 
 ## Working With This Project
 
