@@ -19,7 +19,7 @@ Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2
 - **Sheet:** "3B Class OLV" — https://docs.google.com/spreadsheets/d/1sbOQAI7tY-i0UKdQv9xlk2q_BTP3njWg/edit (owned by nfellers@gmail.com; anyone with the link can edit).
 - **Tabs:** `2026-27` (first tab; Date | Event | Third Grade Syllabus | Nick | Robb | Cristina | Chad | Last year (2025-26)) and `2025-26` (Y1, as-was). Lead/2nd columns for 2026-27 are blank for the team to fill in. No-class rows are gray.
 - **It's an .xlsx in Drive, not a native Sheet**, so the Sheets API can't edit it. To change it: `gws drive files get ... alt=media` → edit with openpyxl → `gws drive files update --upload` (check `modifiedTime` first so you don't clobber a teammate's edit). Snapshot: `datalayer/rawdata/3B_Class_OLV_coordination_sheet.xlsx`.
-- Y1 lesson plans were linked from the sheet as Google Docs (now in the `Last year` column for 2026-27): Session 1 → `session1_lesson_plan.md`, Sessions 2/3 → `session2_3_lesson_plan.md`, Sessions 4/5 → `session4_5_lesson_plan.md` (repo copies are identical to the Docs).
+- **Lesson-plan links live in the Syllabus column (C):** a lesson with a Google Doc plan gets a real hyperlink (blue/underlined). Every other cell stays plain black text; never apply link styling without a link. Y1 Docs, carried into 2026-27: Session 1 → `session1_lesson_plan.md`, Sessions 2 and 3 → `session2_3_lesson_plan.md`, Sessions 4/5 → `session4_5_lesson_plan.md` (repo copies are identical to the Docs). When a new plan Doc is made, link it the same way.
 
 ### Year 2 schedule → Year 1 reuse map
 
