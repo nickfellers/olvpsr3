@@ -60,7 +60,7 @@ No class: Oct 18, Nov 29, Dec 13–Jan 3, Jan 17, Feb 14, Mar 7, Mar 21–Apr 4.
 | Date | Sessions | Lesson Plan File | Reused from Y1? / Notes |
 |------|----------|------------------|-------------------------|
 | Oct 11, 2026 | Session 3 God Is Our Father | `datalayer/session3_lesson_plan.md` ([Doc](https://docs.google.com/document/d/1hQOf3zqRic3qAJ31SObG2bEu1ZTY-iZTkPBLzMz30EM/edit)), `datalayer/sessions1_3_jeopardy.md` ([Doc](https://docs.google.com/document/d/1UQV0d9P_7cP1GlEBkznCrKVcGLXUhZrADhwpv4z-wBo/edit)) | New. Built from the book (video capture) + Y1 `session2_3_lesson_plan.md`. Jeopardy reviews Sessions 1–3. Collect Christmas-play role requests for Krissy Murray |
-| Nov 1, 2026 | All Saints / All Souls pp. 237-240 | `datalayer/all_saints_souls_lesson_plan.md` | New (Y1 was Cristina's, nothing saved). Only ~30 min: Christmas play practice follows. 4th grade Saint Presentations visit mid-class; donuts; pageant scripts handed out. Book from video `IMG_9891.MOV` |
+| Nov 1, 2026 | All Saints / All Souls pp. 237-240 | `datalayer/all_saints_souls_lesson_plan.md` ([Doc](https://docs.google.com/document/d/13mweuWPXLVYuM9TPohzhUsUIpMF-1xX_6uViXh0zBxI/edit), linked in sheet) | New (Y1 was Cristina's, nothing saved). Only ~30 min: Christmas play practice follows. 4th grade Saint Presentations visit mid-class; donuts; pageant scripts handed out. Book from video `IMG_9891.MOV` |
 
 ### Book content captured from video (Year 2)
 
