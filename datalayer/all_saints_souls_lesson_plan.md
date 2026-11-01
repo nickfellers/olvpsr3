@@ -70,6 +70,7 @@ The 4th graders arrive at a time we don't control. **When they knock, stop where
 * Volunteers read the title and the two paragraphs on p. 237.
 * Make the difference clear (point to the board):
   * **Nov 1, All Saints:** the holy people who are with God in heaven now. We ask them to pray for us.
+    * Say: **Here on earth, we're saints in training. The saints in heaven weren't perfect — some of them messed up a lot! But they kept letting God help them, and they ended up in the right place: with God forever. That's who we celebrate today.**
   * **Nov 2, All Souls:** people who have died who are **not yet fully ready** for heaven. We pray for them.
 * **Purgatory in kid words** (from p. 239): **Sin puts a little distance between us and God. Some people die before all that distance is gone. Purgatory is where God cleans it away, so they can see Him face to face in heaven. Our prayers help them.**
 * **God cleans us here, too — sorry at Mass vs. Confession.** Say:
@@ -122,7 +123,7 @@ The 4th graders arrive at a time we don't control. **When they knock, stop where
 * **Go around the room:** **"What is ONE small thing you will do this week to be a saint?"** Each child answers in one sentence. (The book's close on p. 239: "We are all saints whenever we treat someone in a way that shows that we know God loves them.")
 * **Respond (quick):** listen for: what a saint is (our definition) · Halloween = All Hallows' Eve · Nov 1 saints in heaven / Nov 2 souls in Purgatory · Communion of Saints = all of us together in Jesus · saints weren't perfect · our prayers for others matter.
 * Say: **These feasts remind us that we are never alone. We are part of the Communion of Saints!**
-* Last time, with the hand motions: **"A saint is someone who loves God and loves other people, and lets God help them do it."** (3rd time) Say: **You can be a saint too. Start today.**
+* Last time, with the hand motions: **"A saint is someone who loves God and loves other people, and lets God help them do it."** (3rd time) Say: **You're a saint in training. Like Augustine, you don't have to be perfect. Keep letting God help you, and one day you'll be with the saints in heaven.**
 * Heart sticker (or marker heart) on each hand. Say: **When you look at your heart, remember the saints. Try to love and serve someone today like they did.**
 * **Tear out pp. 237–240 and send them home** (standing syllabus instruction).
 * Hand out **Christmas Pageant scripts**. Donuts if not yet eaten. Line up for play practice.
