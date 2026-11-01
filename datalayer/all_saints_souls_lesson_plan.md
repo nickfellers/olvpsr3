@@ -149,40 +149,6 @@ A giant circle of people holding hands around an altar with a chalice and Host. 
 
 Other concepts offered: "One Family, Three Places" (heaven / on the way / earth layers), "Prayers Go Up and Down" (ladder of prayers, Monica and Augustine, candles for loved ones). Earlier default "Saints Like Me" (four p. 238 saints in frames) was not chosen.
 
-Gemini prompt:
-
-```
-Create a printable black-and-white coloring page for 8-year-old children, portrait orientation, US Letter size.
-
-Style: clean line art only. Thick, smooth black outlines on a pure white background. No shading, no gray, no color, no hatching. Large simple shapes with plenty of open space to color. Friendly, gentle cartoon style for a Catholic religious education class. Simple faces with few lines, like a children's coloring book.
-
-Title at the top, in big bubble letters, exactly: ALL TOGETHER IN JESUS
-Smaller line under the title, exactly: The Communion of Saints
-
-Center of the page: a simple altar with a cloth. On the altar, a chalice with a round Host above it, with simple rays of light coming out from the Host.
-
-Around the altar, two rings of people holding hands, seen from the front and slightly above, so the circles look like ovals:
-
-Inner ring (closer to the altar): 7 happy children about 8 years old, boys and girls with different hairstyles and skin tones, wearing everyday clothes (t-shirts, jeans, a dress, a hoodie). Hands joined.
-- In the front of the inner ring, at the bottom center, leave ONE EMPTY SPACE: just a dotted outline of a child's body shape with nothing drawn inside. Under it, a small label, exactly: ME!
-- The children on each side of the empty space reach their hands toward it.
-
-Outer ring (behind the children): 8 saints holding hands, each with a simple round halo:
-- At the top center, Mary, in a long veil and robe, with a small crown of stars.
-- Around the rest of the ring: a woman in a nun's veil holding roses; a teenage boy in a hoodie and sneakers holding a laptop; a bishop with a tall pointed hat and a book; a woman with prayer beads; a Black man in early-1800s clothes with a high collar; a monk in a simple robe with a rope belt; a woman in a simple dress holding a small cross.
-- The saints' hands connect down to the children's hands on the left and right sides, so the two rings join into one family.
-
-Background: a few simple clouds at the top, small stars and small hearts scattered in the empty spaces to color. Keep it uncluttered.
-
-Spell every word exactly as written. No other text anywhere.
-```
-
-Fixes if Gemini misfires:
-- Text garbled → "Regenerate with no text at all." Hand-letter the title.
-- No empty space → "Make the empty spot at the bottom center a clear dotted outline with nothing inside, labeled ME!"
-- Too crowded → "Use only 5 children and 6 saints, larger and simpler."
-- Saints look like the kids → "Make the saints taller, in robes and veils, each with a halo."
-
 ### Not used today (book "If Time Allows")
 
 * Video about the saints (QR, p. 237)
