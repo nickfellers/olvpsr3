@@ -29,11 +29,11 @@ Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2
 
 | Date | Year 2 content (per coordinator syllabus) | Y1 | Year 1 material to reuse |
 |------|-------------------------------------------|----|--------------------------|
-| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | 9/21/25, Nick lead | `session1_lesson_plan.md` (first-day intros, rules, name tags, Ignatian examen, "Finding God Everywhere" game) + St. Ignatius coloring |
-| Oct 4 | Session 2 Created to Be Together | 9/28/25 (with 3), Nick lead | `session2_3_lesson_plan.md` + Trinity coloring |
-| Oct 11 | Session 3 God is our Father | 9/28/25 (with 2), Nick lead | `session2_3_lesson_plan.md` |
+| Sep 27 | Unit 1 Opener (St. Ignatius) + Session 1 Created to Be Happy | 9/21/25, Nick lead | `session1_lesson_plan.md` (first-day intros, rules, name tags, Ignatian examen, "Finding God Everywhere" game) + St. Ignatius coloring. Book: `session1_catechist_guide.md`, `lesson1.yaml` |
+| Oct 4 | Session 2 Created to Be Together | 9/28/25 (with 3), Nick lead | `session2_3_lesson_plan.md` + Trinity coloring. Book: `session2_catechist_guide.md`, `lesson2.yaml` |
+| Oct 11 | Session 3 God is our Father | 9/28/25 (with 2), Nick lead | Y2 plan built: `session3_lesson_plan.md` + `sessions1_3_jeopardy.md`. Our Father coloring (new, Gemini). Book: `session3_catechist_guide.md`, `lesson3.yaml` (Y1 barely reached Session 3) |
 | Oct 25 | Sessions 4 + 5 (Jesus is with Us, Ordinary Time) | 10/5/25, Nick lead | `session4_5_lesson_plan.md` — same pairing + Joseph coloring |
-| Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | None |
+| Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | Y2 plan built: `all_saints_souls_lesson_plan.md` (30 min). Book: `all_saints_souls_catechist_guide.md` |
 | Nov 8 | Session 10 Celebrating Advent | 11/9/25, Nick lead | No plan saved — raw planner + `rawdata/session10quiz.pdf` |
 | Nov 15 | Session 14 Mary is Holy | 11/2/25, Nick lead | No plan saved; Miraculous Medal coloring |
 | Nov 22 | Session 15 Celebrating Christmas | 11/16/25, Cristina lead | None |
@@ -59,7 +59,15 @@ No class: Oct 18, Nov 29, Dec 13–Jan 3, Jan 17, Feb 14, Mar 7, Mar 21–Apr 4.
 
 | Date | Sessions | Lesson Plan File | Reused from Y1? / Notes |
 |------|----------|------------------|-------------------------|
-| | | | |
+| Oct 11, 2026 | Session 3 God Is Our Father | `datalayer/session3_lesson_plan.md` ([Doc](https://docs.google.com/document/d/1hQOf3zqRic3qAJ31SObG2bEu1ZTY-iZTkPBLzMz30EM/edit)), `datalayer/sessions1_3_jeopardy.md` ([Doc](https://docs.google.com/document/d/1UQV0d9P_7cP1GlEBkznCrKVcGLXUhZrADhwpv4z-wBo/edit)) | New. Built from the book (video capture) + Y1 `session2_3_lesson_plan.md`. Jeopardy reviews Sessions 1–3. Collect Christmas-play role requests for Krissy Murray |
+| Nov 1, 2026 | All Saints / All Souls pp. 237-240 | `datalayer/all_saints_souls_lesson_plan.md` | New (Y1 was Cristina's, nothing saved). Only ~30 min: Christmas play practice follows. 4th grade Saint Presentations visit mid-class; donuts; pageant scripts handed out. Book from video `IMG_9891.MOV` |
+
+### Book content captured from video (Year 2)
+
+Year 1 had no transcription of the physical Catechist Guide. In Year 2 Nick records a page-flip video of the guide, and Claude transcribes it.
+- **Sessions 1–3 + Unit 1 opener:** video `~/Downloads/IMG_9291.MOV` (2026-10-10). Output: `datalayer/session{1,2,3}_catechist_guide.md` (page-by-page: student text + catechist wraparound, colored answers in parentheses) and `datalayer/lesson{1,2,3}.yaml` (structured, with `jeopardy_facts`).
+- **Method:** take the sharpest frame from each 2-second window (OpenCV Laplacian variance), then let one transcription agent per session read the frames. The video does not show the Glossary, the Art Print backs or the BLMs.
+- **Loyola planners and resources:** `datalayer/rawdata/Unit {1,2,3,4} (Sessions …)/`. These hold the official outcomes (learning objectives), timings and materials per session. Units 2–4 also have assessments with answer keys, study guides, worksheets, unit reviews and prayer services. Unit 1 has planners only.
 
 ## Curriculum
 
