@@ -143,32 +143,45 @@ Tell the class before the 4th graders come in: **Listen for how each saint loved
 
 Do **not** cut: the saint definition (all three times), the Halloween hook, the All Saints / All Souls difference, "the Communion of Saints includes you," Augustine + Monica, the Hail Mary's two halves, and the "one small thing" round.
 
-### Coloring page: "Saints Like Me"
+### Coloring page: "All Together in Jesus"
 
-The four saints from p. 238 in round frames around a heart, plus an empty frame where each child draws themselves with a halo. It ties to the line "the Communion of Saints includes you." Use it as the take-home, or while the 4th graders set up. Other concepts offered: "One Family in Jesus" (heaven / earth / candles for loved ones), "Halloween → All Saints" (split page).
+A giant circle of people holding hands around an altar with a chalice and Host. Inner ring: kids like our class, with one empty outline where each child draws themselves. Outer ring: saints with halos, Mary at the top. It shows "Communion means coming together as one" (block 3), the link to the Eucharist, and "the Communion of Saints includes you." Use it as the take-home, or while the 4th graders set up.
+
+Other concepts offered: "One Family, Three Places" (heaven / on the way / earth layers), "Prayers Go Up and Down" (ladder of prayers, Monica and Augustine, candles for loved ones). Earlier default "Saints Like Me" (four p. 238 saints in frames) was not chosen.
 
 Gemini prompt:
 
 ```
 Create a printable black-and-white coloring page for 8-year-old children, portrait orientation, US Letter size.
 
-Style: clean line art only. Thick, smooth black outlines on a pure white background. No shading, no gray, no color, no hatching. Large simple shapes with plenty of open space to color. Friendly, gentle cartoon style suitable for a Catholic religious education class.
+Style: clean line art only. Thick, smooth black outlines on a pure white background. No shading, no gray, no color, no hatching. Large simple shapes with plenty of open space to color. Friendly, gentle cartoon style for a Catholic religious education class. Simple faces with few lines, like a children's coloring book.
 
-Layout:
-- At the top, a big bubble-letter title that reads exactly: SAINTS LIKE ME
-- In the center, a large heart. Inside the heart, in simple block letters, exactly: LOVE ONE ANOTHER. Under the heart, small text exactly: 1 John 4:11
-- Around the heart, four round portrait frames (like medallions), each with a simple halo above the head and a banner ribbon under the frame with the name:
-  1. Top left: a smiling woman in a simple nun's veil, holding a small cross. Banner: ST. TERESA BENEDICTA
-  2. Top right: a kind Black man in early-1800s clothing (high collar, cravat) holding a loaf of bread to share. Banner: PIERRE TOUSSAINT
-  3. Bottom left: a young nun in a Carmelite habit holding a bunch of roses. Banner: ST. THERESE
-  4. Bottom right: a cheerful young man in a 1950s suit and round glasses holding a small Easter candle. Banner: CARLOS RODRIGUEZ
-- At the bottom center, a fifth round frame that is EMPTY inside except for a simple halo outline at the top, with a banner that reads exactly: ME!  Next to it, a small line of text: Draw yourself as a saint!
-- Fill the remaining background lightly with simple stars and small hearts to color. Keep it uncluttered.
+Title at the top, in big bubble letters, exactly: ALL TOGETHER IN JESUS
+Smaller line under the title, exactly: The Communion of Saints
 
-Spell every word exactly as written above. No other text.
+Center of the page: a simple altar with a cloth. On the altar, a chalice with a round Host above it, with simple rays of light coming out from the Host.
+
+Around the altar, two rings of people holding hands, seen from the front and slightly above, so the circles look like ovals:
+
+Inner ring (closer to the altar): 7 happy children about 8 years old, boys and girls with different hairstyles and skin tones, wearing everyday clothes (t-shirts, jeans, a dress, a hoodie). Hands joined.
+- In the front of the inner ring, at the bottom center, leave ONE EMPTY SPACE: just a dotted outline of a child's body shape with nothing drawn inside. Under it, a small label, exactly: ME!
+- The children on each side of the empty space reach their hands toward it.
+
+Outer ring (behind the children): 8 saints holding hands, each with a simple round halo:
+- At the top center, Mary, in a long veil and robe, with a small crown of stars.
+- Around the rest of the ring: a woman in a nun's veil holding roses; a teenage boy in a hoodie and sneakers holding a laptop; a bishop with a tall pointed hat and a book; a woman with prayer beads; a Black man in early-1800s clothes with a high collar; a monk in a simple robe with a rope belt; a woman in a simple dress holding a small cross.
+- The saints' hands connect down to the children's hands on the left and right sides, so the two rings join into one family.
+
+Background: a few simple clouds at the top, small stars and small hearts scattered in the empty spaces to color. Keep it uncluttered.
+
+Spell every word exactly as written. No other text anywhere.
 ```
 
-Fixes if Gemini misfires: if the text comes out garbled, ask it to "regenerate with no text at all" and hand-letter the title. If the portraits get too detailed, add "simpler faces, fewer lines, like a children's coloring book."
+Fixes if Gemini misfires:
+- Text garbled → "Regenerate with no text at all." Hand-letter the title.
+- No empty space → "Make the empty spot at the bottom center a clear dotted outline with nothing inside, labeled ME!"
+- Too crowded → "Use only 5 children and 6 saints, larger and simpler."
+- Saints look like the kids → "Make the saints taller, in robes and veils, each with a halo."
 
 ### Not used today (book "If Time Allows")
 
