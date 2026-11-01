@@ -95,16 +95,19 @@ The 4th graders arrive at a time we don't control. **When they knock, stop where
 * Volunteer reads **The Communion of Saints**. Ask: **Where else do we hear the word "communion"?** (First Communion / the Eucharist) Say: **Communion means coming together as one.** Ask: **Who is in the Communion of Saints?** (everyone, living and dead, who loves God)
 * **Say this one twice: "The Communion of Saints isn't just the saints in heaven. It includes you, me, and everyone who follows Jesus."**
 
-**4 · Saints weren't perfect (15–19 min)** — ties to "lets God help them do it"
+**4 · Saints weren't perfect: St. Augustine (15–21 min)** — ties to "lets God help them do it"
 
 * Say: **Here's a secret: saints weren't perfect. They made mistakes, just like us. What made them saints is that they kept letting God help them.**
-* **St. Augustine and the pears.** **When Augustine was a teenager, he and his friends stole pears from a neighbor's tree. He didn't even want the pears! He did it just because his friends were doing it.** Ask: **Ever done something just because your friends were doing it?** (Hands up is enough. No stories needed.)
-* **St. Monica, his mom.** **Augustine's mom, Monica, prayed for him for years and years. God answered her prayers. Augustine became one of the greatest saints ever.** Say: **Our prayers for other people matter! That's the Communion of Saints at work.** Their feast days are side by side: **Monica Aug 27, Augustine Aug 28.**
+* **1. The pears.** **When Augustine was a teenager, he and his friends stole pears from a neighbor's tree. He wasn't even hungry! He didn't want the pears. He did it just for the fun of being bad, because his friends were doing it.** (He wrote this story himself, honestly, in his book *Confessions*.) Ask: **Ever done something just because your friends were doing it?** (Hands up is enough. No stories needed.)
+  * Say: **Augustine made lots of bad choices when he was young. But God never gave up on him. Saints aren't people who never messed up. They're people who said YES to God's help.**
+* **2. His mom prayed for him for years.** **Augustine's mom, St. Monica, prayed and cried for her son for years and years. God answered her prayers. Augustine turned back to God and became one of the greatest saints ever.** Say: **Our prayers for other people really matter! That's the Communion of Saints at work.** Their feast days are side by side on the calendar: **Monica Aug 27, Augustine Aug 28.** (Kids like that a mom and son are next to each other.)
+* **3. God made our hearts for Him.** Augustine's most famous line (opening of *Confessions*): **"You have made us for yourself, O Lord, and our hearts are restless until they rest in you."** Say it in kid words: **God made a special space in your heart that only He can fill. Toys and games are fun, but they never fill that space all the way.** Ask: **Where does that space finally get filled all the way?** (heaven, with God) Say: **That's where the saints are now. They ended up in the right place.**
+* **4. The seashell story** (say it's a legend). **There's an old story — a legend, so it may not have really happened — that Augustine was walking on the beach, thinking hard about God. He saw a little child digging a hole in the sand and pouring in ocean water with a seashell. "What are you doing?" "I'm putting the whole ocean in my hole!" Augustine said, "That's impossible!" And then he realized: trying to fit all of God into my head is like that.** Say: **God is bigger than anything we can understand — and that's okay.**
 * **St. Mark Ji Tianxiang** (China, 1800s). **Mark got very sick. He took a medicine, and his body got stuck needing it. He couldn't stop. But for 30 years he kept going to church and never gave up on God.** Say: **He kept letting God help him, even when it was really hard.**
   * *Catechist note:* don't use the word "addiction" with this age. If a child asks, "his body got stuck needing the medicine" is enough. (Background: it was opium. He died for his faith in 1900 and was canonized in 2000.)
 * The **"A Saint in the Making"** story on p. 239 goes home with the page. No time to write it today.
 
-**5 · Prayer service (19–24 min)** — p. 240
+**5 · Prayer service (21–25 min)** — p. 240
 
 * Gather at the prayer table. Say: **As we pray, we look to Mary, the greatest saint. She is sometimes called "Queen of All Saints."**
 * Pick one volunteer as **Reader**. You are **Leader**. Point out the **All** lines. Pray the service on p. 240.
@@ -115,13 +118,13 @@ The 4th graders arrive at a time we don't control. **When they knock, stop where
   * Kid line: **"The first part says nice things to Mary, and the second part asks her to pray for us."**
 * End with the **Hail Mary** together.
 
-**6 · God wants YOU to be a saint + go in peace (24–30 min)** — pp. 239–240
+**6 · God wants YOU to be a saint + go in peace (25–30 min)** — pp. 239–240
 
 * Say: **Being a saint isn't just for priests and nuns. God wants every one of YOU to be a saint.**
 * **St. Thérèse's Little Way** (point to her on p. 238): **She didn't do giant things. She did small things with great love — being kind to someone who annoyed her, doing a chore without complaining.**
 * **St. Carlo Acutis:** **Carlo was a regular teenager. He loved video games, soccer and computers. He used his computer skills to teach people about Jesus in the Eucharist. He died at 15, and in 2025 the Church named him a saint.** Say: **A kid who played video games is a saint! So you can be one too.**
 * **Go around the room:** **"What is ONE small thing you will do this week to be a saint?"** Each child answers in one sentence. (The book's close on p. 239: "We are all saints whenever we treat someone in a way that shows that we know God loves them.")
-* **Respond (quick):** listen for: what a saint is (our definition) · Halloween = All Hallows' Eve · Nov 1 saints in heaven / Nov 2 souls in Purgatory · Communion of Saints = all of us together in Jesus · saints weren't perfect · our prayers for others matter.
+* **Respond (quick):** listen for: what a saint is (our definition) · Halloween = All Hallows' Eve · Nov 1 saints in heaven / Nov 2 souls in Purgatory · Communion of Saints = all of us together in Jesus · saints weren't perfect · our prayers for others matter · our hearts are restless until they rest in God · God is bigger than we can understand.
 * Say: **These feasts remind us that we are never alone. We are part of the Communion of Saints!**
 * Last time, with the hand motions: **"A saint is someone who loves God and loves other people, and lets God help them do it."** (3rd time) Say: **You're a saint in training. Like Augustine, you don't have to be perfect. Keep letting God help you, and one day you'll be with the saints in heaven.**
 * Heart sticker (or marker heart) on each hand. Say: **When you look at your heart, remember the saints. Try to love and serve someone today like they did.**
@@ -138,10 +141,10 @@ Tell the class before the 4th graders come in: **Listen for how each saint loved
 
 1. The litany in block 5 → just the printed service + Hail Mary.
 2. The four portrait bios in block 3 → names only (keep Thérèse; she comes back at the end).
-3. St. Mark Ji Tianxiang in block 4 → keep Augustine and Monica.
+3. St. Mark Ji Tianxiang in block 4 → keep all four Augustine points.
 4. The Respond recap in block 6 → the "one small thing" round already covers it.
 
-Do **not** cut: the saint definition (all three times), the Halloween hook, the All Saints / All Souls difference, "the Communion of Saints includes you," Augustine + Monica, the Hail Mary's two halves, and the "one small thing" round.
+Do **not** cut: the saint definition (all three times), the Halloween hook, the All Saints / All Souls difference, "the Communion of Saints includes you," all four Augustine points (pears, Monica, restless heart, seashell), the Hail Mary's two halves, and the "one small thing" round.
 
 ### Coloring page: "All Together in Jesus"
 
