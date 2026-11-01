@@ -33,7 +33,7 @@ Class **3B** is co-taught by four catechists who rotate weekly as **Lead** / **2
 | Oct 4 | Session 2 Created to Be Together | 9/28/25 (with 3), Nick lead | `session2_3_lesson_plan.md` + Trinity coloring. Book: `session2_catechist_guide.md`, `lesson2.yaml` |
 | Oct 11 | Session 3 God is our Father | 9/28/25 (with 2), Nick lead | Y2 plan built: `session3_lesson_plan.md` + `sessions1_3_jeopardy.md`. Our Father coloring (new, Gemini). Book: `session3_catechist_guide.md`, `lesson3.yaml` (Y1 barely reached Session 3) |
 | Oct 25 | Sessions 4 + 5 (Jesus is with Us, Ordinary Time) | 10/5/25, Nick lead | `session4_5_lesson_plan.md` — same pairing + Joseph coloring |
-| Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | Y2 plan built: `all_saints_souls_lesson_plan.md` (30 min). Book: `all_saints_souls_catechist_guide.md` |
+| Nov 1 | All Saints / All Souls pp. 237-240 | 10/19–26/25, Cristina lead | Y2 plan built: `all_saints_souls_lesson_plan.md` (30 min) + "All Together in Jesus" Communion of Saints coloring (Gemini). Book: `all_saints_souls_catechist_guide.md` |
 | Nov 8 | Session 10 Celebrating Advent | 11/9/25, Nick lead | No plan saved — raw planner + `rawdata/session10quiz.pdf` |
 | Nov 15 | Session 14 Mary is Holy | 11/2/25, Nick lead | No plan saved; Miraculous Medal coloring |
 | Nov 22 | Session 15 Celebrating Christmas | 11/16/25, Cristina lead | None |

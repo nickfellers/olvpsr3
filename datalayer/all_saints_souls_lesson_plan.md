@@ -166,6 +166,8 @@ Do **not** cut: Miss Cristina's 10 minutes, the saint definition (all three time
 
 ### Coloring page: "All Together in Jesus"
 
+File: `rawdata/coloring/2026-11-01 All Saints - All Together in Jesus (Communion of Saints).jpeg` (Gemini). Prompt and notes: `coloring_sheets.md`.
+
 A giant circle of people holding hands around an altar with a chalice and Host. Inner ring: kids like our class, with one empty outline where each child draws themselves. Outer ring: saints with halos, Mary at the top. It shows "Communion means coming together as one" (block 4), the link to the Eucharist, and "the Communion of Saints includes you." Use it as the take-home, or while the 4th graders set up.
 
 Other concepts offered: "One Family, Three Places" (heaven / on the way / earth layers), "Prayers Go Up and Down" (ladder of prayers, Monica and Augustine, candles for loved ones). Earlier default "Saints Like Me" (four p. 238 saints in frames) was not chosen.
